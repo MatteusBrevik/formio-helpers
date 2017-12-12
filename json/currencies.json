@@ -3,918 +3,918 @@
       "name": "AED - United Arab Emirates dirham",
       "code": "AED",
       "symbol": "د.إ",
-      "flag": "https://restcountries.eu/data/are.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/are.gif"
     },
     {
       "name": "AFN - Afghan afghani",
       "code": "AFN",
       "symbol": "؋",
-      "flag": "https://restcountries.eu/data/afg.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/afg.gif"
     },
     {
       "name": "ALL - Albanian lek",
       "code": "ALL",
       "symbol": "L",
-      "flag": "https://restcountries.eu/data/alb.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/alb.gif"
     },
     {
       "name": "AMD - Armenian dram",
       "code": "AMD",
       "symbol": "",
-      "flag": "https://restcountries.eu/data/arm.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/arm.gif"
     },
     {
       "name": "ANG - Netherlands Antillean guilder",
       "code": "ANG",
       "symbol": "ƒ",
-      "flag": "https://restcountries.eu/data/cuw.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/cuw.gif"
     },
     {
       "name": "AOA - Angolan kwanza",
       "code": "AOA",
       "symbol": "Kz",
-      "flag": "https://restcountries.eu/data/ago.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/ago.gif"
     },
     {
       "name": "ARS - Argentine peso",
       "code": "ARS",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/arg.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/arg.gif"
     },
     {
       "name": "AUD - Australian dollar",
       "code": "AUD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/ata.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/aus.gif"
     },
     {
       "name": "AWG - Aruban florin",
       "code": "AWG",
       "symbol": "ƒ",
-      "flag": "https://restcountries.eu/data/abw.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/abw.gif"
     },
     {
       "name": "AZN - Azerbaijani manat",
       "code": "AZN",
       "symbol": "",
-      "flag": "https://restcountries.eu/data/aze.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/aze.gif"
     },
     {
       "name": "BAM - Bosnia and Herzegovina convertible mark",
       "code": "BAM",
       "symbol": "",
-      "flag": "https://restcountries.eu/data/bih.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/bih.gif"
     },
     {
       "name": "BBD - Barbadian dollar",
       "code": "BBD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/brb.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/brb.gif"
     },
     {
       "name": "BDT - Bangladeshi taka",
       "code": "BDT",
       "symbol": "৳",
-      "flag": "https://restcountries.eu/data/bgd.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/bgd.gif"
     },
     {
       "name": "BGN - Bulgarian lev",
       "code": "BGN",
       "symbol": "лв",
-      "flag": "https://restcountries.eu/data/bgr.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/bgr.gif"
     },
     {
       "name": "BHD - Bahraini dinar",
       "code": "BHD",
       "symbol": ".د.ب",
-      "flag": "https://restcountries.eu/data/bhr.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/bhr.gif"
     },
     {
       "name": "BIF - Burundian franc",
       "code": "BIF",
       "symbol": "Fr",
-      "flag": "https://restcountries.eu/data/bdi.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/bdi.gif"
     },
     {
       "name": "BMD - Bermudian dollar",
       "code": "BMD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/bmu.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/bmu.gif"
     },
     {
       "name": "BND - Brunei dollar",
       "code": "BND",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/brn.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/brn.gif"
     },
     {
       "name": "BOB - Bolivian boliviano",
       "code": "BOB",
       "symbol": "Bs.",
-      "flag": "https://restcountries.eu/data/bol.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/bol.gif"
     },
     {
       "name": "BRL - Brazilian real",
       "code": "BRL",
       "symbol": "R$",
-      "flag": "https://restcountries.eu/data/bra.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/bra.gif"
     },
     {
       "name": "BSD - Bahamian dollar",
       "code": "BSD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/bhs.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/bhs.gif"
     },
     {
       "name": "BTN - Bhutanese ngultrum",
       "code": "BTN",
       "symbol": "Nu.",
-      "flag": "https://restcountries.eu/data/btn.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/btn.gif"
     },
     {
       "name": "BWP - Botswana pula",
       "code": "BWP",
       "symbol": "P",
-      "flag": "https://restcountries.eu/data/bwa.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/bwa.gif"
     },
     {
       "name": "BYN - New Belarusian ruble",
       "code": "BYN",
       "symbol": "Br",
-      "flag": "https://restcountries.eu/data/blr.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/blr.gif"
     },
     {
       "name": "BZD - Belize dollar",
       "code": "BZD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/blz.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/blz.gif"
     },
     {
       "name": "CAD - Canadian dollar",
       "code": "CAD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/can.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/can.gif"
     },
     {
       "name": "CDF - Congolese franc",
       "code": "CDF",
       "symbol": "Fr",
-      "flag": "https://restcountries.eu/data/cod.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/cod.gif"
     },
     {
       "name": "CHF - Swiss franc",
       "code": "CHF",
       "symbol": "Fr",
-      "flag": "https://restcountries.eu/data/lie.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/lie.gif"
     },
     {
       "name": "CLP - Chilean peso",
       "code": "CLP",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/chl.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/chl.gif"
     },
     {
       "name": "CNY - Chinese yuan",
       "code": "CNY",
       "symbol": "¥",
-      "flag": "https://restcountries.eu/data/chn.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/chn.gif"
     },
     {
       "name": "COP - Colombian peso",
       "code": "COP",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/col.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/col.gif"
     },
     {
       "name": "CRC - Costa Rican colón",
       "code": "CRC",
       "symbol": "₡",
-      "flag": "https://restcountries.eu/data/cri.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/cri.gif"
     },
     {
       "name": "CUC - Cuban convertible peso",
       "code": "CUC",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/cub.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/cub.gif"
     },
     {
       "name": "CVE - Cape Verdean escudo",
       "code": "CVE",
       "symbol": "Esc",
-      "flag": "https://restcountries.eu/data/cpv.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/cpv.gif"
     },
     {
       "name": "CZK - Czech koruna",
       "code": "CZK",
       "symbol": "Kč",
-      "flag": "https://restcountries.eu/data/cze.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/cze.gif"
     },
     {
       "name": "DJF - Djiboutian franc",
       "code": "DJF",
       "symbol": "Fr",
-      "flag": "https://restcountries.eu/data/dji.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/dji.gif"
     },
     {
       "name": "DKK - Danish krone",
       "code": "DKK",
       "symbol": "kr",
-      "flag": "https://restcountries.eu/data/dnk.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/dnk.gif"
     },
     {
       "name": "DOP - Dominican peso",
       "code": "DOP",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/dom.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/dom.gif"
     },
     {
       "name": "DZD - Algerian dinar",
       "code": "DZD",
       "symbol": "د.ج",
-      "flag": "https://restcountries.eu/data/dza.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/dza.gif"
     },
     {
       "name": "EGP - Egyptian pound",
       "code": "EGP",
       "symbol": "£",
-      "flag": "https://restcountries.eu/data/egy.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/egy.gif"
     },
     {
       "name": "ERN - Eritrean nakfa",
       "code": "ERN",
       "symbol": "Nfk",
-      "flag": "https://restcountries.eu/data/eri.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/eri.gif"
     },
     {
       "name": "ETB - Ethiopian birr",
       "code": "ETB",
       "symbol": "Br",
-      "flag": "https://restcountries.eu/data/eth.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/eth.gif"
     },
     {
       "name": "EUR - Euro",
       "code": "EUR",
       "symbol": "€",
-      "flag": "https://restcountries.eu/data/ala.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/eur.gif"
     },
     {
       "name": "FJD - Fijian dollar",
       "code": "FJD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/fji.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/fji.gif"
     },
     {
       "name": "FKP - Falkland Islands pound",
       "code": "FKP",
       "symbol": "£",
-      "flag": "https://restcountries.eu/data/flk.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/flk.gif"
     },
     {
       "name": "GBP - British pound",
       "code": "GBP",
       "symbol": "£",
-      "flag": "https://restcountries.eu/data/ggy.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/ggy.gif"
     },
     {
       "name": "GEL - Georgian Lari",
       "code": "GEL",
       "symbol": "ლ",
-      "flag": "https://restcountries.eu/data/geo.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/geo.gif"
     },
     {
       "name": "GHS - Ghanaian cedi",
       "code": "GHS",
       "symbol": "₵",
-      "flag": "https://restcountries.eu/data/gha.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/gha.gif"
     },
     {
       "name": "GIP - Gibraltar pound",
       "code": "GIP",
       "symbol": "£",
-      "flag": "https://restcountries.eu/data/gib.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/gib.gif"
     },
     {
       "name": "GMD - Gambian dalasi",
       "code": "GMD",
       "symbol": "D",
-      "flag": "https://restcountries.eu/data/gmb.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/gmb.gif"
     },
     {
       "name": "GNF - Guinean franc",
       "code": "GNF",
       "symbol": "Fr",
-      "flag": "https://restcountries.eu/data/gin.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/gin.gif"
     },
     {
       "name": "GTQ - Guatemalan quetzal",
       "code": "GTQ",
       "symbol": "Q",
-      "flag": "https://restcountries.eu/data/gtm.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/gtm.gif"
     },
     {
       "name": "GYD - Guyanese dollar",
       "code": "GYD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/guy.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/guy.gif"
     },
     {
       "name": "HKD - Hong Kong dollar",
       "code": "HKD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/hkg.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/hkg.gif"
     },
     {
       "name": "HNL - Honduran lempira",
       "code": "HNL",
       "symbol": "L",
-      "flag": "https://restcountries.eu/data/hnd.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/hnd.gif"
     },
     {
       "name": "HRK - Croatian kuna",
       "code": "HRK",
       "symbol": "kn",
-      "flag": "https://restcountries.eu/data/hrv.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/hrv.gif"
     },
     {
       "name": "HTG - Haitian gourde",
       "code": "HTG",
       "symbol": "G",
-      "flag": "https://restcountries.eu/data/hti.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/hti.gif"
     },
     {
       "name": "HUF - Hungarian forint",
       "code": "HUF",
       "symbol": "Ft",
-      "flag": "https://restcountries.eu/data/hun.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/hun.gif"
     },
     {
       "name": "IDR - Indonesian rupiah",
       "code": "IDR",
       "symbol": "Rp",
-      "flag": "https://restcountries.eu/data/idn.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/idn.gif"
     },
     {
       "name": "ILS - Israeli new shekel",
       "code": "ILS",
       "symbol": "₪",
-      "flag": "https://restcountries.eu/data/isr.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/isr.gif"
     },
     {
       "name": "INR - Indian rupee",
       "code": "INR",
       "symbol": "₹",
-      "flag": "https://restcountries.eu/data/ind.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/ind.gif"
     },
     {
       "name": "IQD - Iraqi dinar",
       "code": "IQD",
       "symbol": "ع.د",
-      "flag": "https://restcountries.eu/data/irq.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/irq.gif"
     },
     {
       "name": "IRR - Iranian rial",
       "code": "IRR",
       "symbol": "﷼",
-      "flag": "https://restcountries.eu/data/irn.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/irn.gif"
     },
     {
       "name": "ISK - Icelandic króna",
       "code": "ISK",
       "symbol": "kr",
-      "flag": "https://restcountries.eu/data/isl.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/isl.gif"
     },
     {
       "name": "JMD - Jamaican dollar",
       "code": "JMD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/jam.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/jam.gif"
     },
     {
       "name": "JOD - Jordanian dinar",
       "code": "JOD",
       "symbol": "د.ا",
-      "flag": "https://restcountries.eu/data/jor.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/jor.gif"
     },
     {
       "name": "JPY - Japanese yen",
       "code": "JPY",
       "symbol": "¥",
-      "flag": "https://restcountries.eu/data/jpn.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/jpn.gif"
     },
     {
       "name": "KES - Kenyan shilling",
       "code": "KES",
       "symbol": "Sh",
-      "flag": "https://restcountries.eu/data/ken.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/ken.gif"
     },
     {
       "name": "KGS - Kyrgyzstani som",
       "code": "KGS",
       "symbol": "с",
-      "flag": "https://restcountries.eu/data/kgz.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/kgz.gif"
     },
     {
       "name": "KHR - Cambodian riel",
       "code": "KHR",
       "symbol": "៛",
-      "flag": "https://restcountries.eu/data/khm.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/khm.gif"
     },
     {
       "name": "KMF - Comorian franc",
       "code": "KMF",
       "symbol": "Fr",
-      "flag": "https://restcountries.eu/data/com.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/com.gif"
     },
     {
       "name": "KPW - North Korean won",
       "code": "KPW",
       "symbol": "₩",
-      "flag": "https://restcountries.eu/data/prk.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/prk.gif"
     },
     {
       "name": "KRW - South Korean won",
       "code": "KRW",
       "symbol": "₩",
-      "flag": "https://restcountries.eu/data/kor.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/kor.gif"
     },
     {
       "name": "KWD - Kuwaiti dinar",
       "code": "KWD",
       "symbol": "د.ك",
-      "flag": "https://restcountries.eu/data/kwt.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/kwt.gif"
     },
     {
       "name": "KYD - Cayman Islands dollar",
       "code": "KYD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/cym.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/cym.gif"
     },
     {
       "name": "KZT - Kazakhstani tenge",
       "code": "KZT",
       "symbol": "",
-      "flag": "https://restcountries.eu/data/kaz.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/kaz.gif"
     },
     {
       "name": "LAK - Lao kip",
       "code": "LAK",
       "symbol": "₭",
-      "flag": "https://restcountries.eu/data/lao.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/lao.gif"
     },
     {
       "name": "LBP - Lebanese pound",
       "code": "LBP",
       "symbol": "ل.ل",
-      "flag": "https://restcountries.eu/data/lbn.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/lbn.gif"
     },
     {
       "name": "LKR - Sri Lankan rupee",
       "code": "LKR",
       "symbol": "Rs",
-      "flag": "https://restcountries.eu/data/lka.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/lka.gif"
     },
     {
       "name": "LRD - Liberian dollar",
       "code": "LRD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/lbr.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/lbr.gif"
     },
     {
       "name": "LSL - Lesotho loti",
       "code": "LSL",
       "symbol": "L",
-      "flag": "https://restcountries.eu/data/lso.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/lso.gif"
     },
     {
       "name": "LYD - Libyan dinar",
       "code": "LYD",
       "symbol": "ل.د",
-      "flag": "https://restcountries.eu/data/lby.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/lby.gif"
     },
     {
       "name": "MAD - Moroccan dirham",
       "code": "MAD",
       "symbol": "د.م.",
-      "flag": "https://restcountries.eu/data/mar.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/mar.gif"
     },
     {
       "name": "MDL - Moldovan leu",
       "code": "MDL",
       "symbol": "L",
-      "flag": "https://restcountries.eu/data/mda.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/mda.gif"
     },
     {
       "name": "MGA - Malagasy ariary",
       "code": "MGA",
       "symbol": "Ar",
-      "flag": "https://restcountries.eu/data/mdg.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/mdg.gif"
     },
     {
       "name": "MKD - Macedonian denar",
       "code": "MKD",
       "symbol": "ден",
-      "flag": "https://restcountries.eu/data/mkd.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/mkd.gif"
     },
     {
       "name": "MMK - Burmese kyat",
       "code": "MMK",
       "symbol": "Ks",
-      "flag": "https://restcountries.eu/data/mmr.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/mmr.gif"
     },
     {
       "name": "MNT - Mongolian tögrög",
       "code": "MNT",
       "symbol": "₮",
-      "flag": "https://restcountries.eu/data/mng.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/mng.gif"
     },
     {
       "name": "MOP - Macanese pataca",
       "code": "MOP",
       "symbol": "P",
-      "flag": "https://restcountries.eu/data/mac.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/mac.gif"
     },
     {
       "name": "MRO - Mauritanian ouguiya",
       "code": "MRO",
       "symbol": "UM",
-      "flag": "https://restcountries.eu/data/mrt.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/mrt.gif"
     },
     {
       "name": "MUR - Mauritian rupee",
       "code": "MUR",
       "symbol": "₨",
-      "flag": "https://restcountries.eu/data/mus.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/mus.gif"
     },
     {
       "name": "MVR - Maldivian rufiyaa",
       "code": "MVR",
       "symbol": ".ރ",
-      "flag": "https://restcountries.eu/data/mdv.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/mdv.gif"
     },
     {
       "name": "MWK - Malawian kwacha",
       "code": "MWK",
       "symbol": "MK",
-      "flag": "https://restcountries.eu/data/mwi.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/mwi.gif"
     },
     {
       "name": "MXN - Mexican peso",
       "code": "MXN",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/mex.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/mex.gif"
     },
     {
       "name": "MYR - Malaysian ringgit",
       "code": "MYR",
       "symbol": "RM",
-      "flag": "https://restcountries.eu/data/mys.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/mys.gif"
     },
     {
       "name": "MZN - Mozambican metical",
       "code": "MZN",
       "symbol": "MT",
-      "flag": "https://restcountries.eu/data/moz.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/moz.gif"
     },
     {
       "name": "NAD - Namibian dollar",
       "code": "NAD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/nam.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/nam.gif"
     },
     {
       "name": "NGN - Nigerian naira",
       "code": "NGN",
       "symbol": "₦",
-      "flag": "https://restcountries.eu/data/nga.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/nga.gif"
     },
     {
       "name": "NIO - Nicaraguan córdoba",
       "code": "NIO",
       "symbol": "C$",
-      "flag": "https://restcountries.eu/data/nic.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/nic.gif"
     },
     {
       "name": "NOK - Norwegian krone",
       "code": "NOK",
       "symbol": "kr",
-      "flag": "https://restcountries.eu/data/bvt.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/bvt.gif"
     },
     {
       "name": "NPR - Nepalese rupee",
       "code": "NPR",
       "symbol": "₨",
-      "flag": "https://restcountries.eu/data/npl.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/npl.gif"
     },
     {
       "name": "NZD - New Zealand dollar",
       "code": "NZD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/cok.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/nzl.gif"
     },
     {
       "name": "OMR - Omani rial",
       "code": "OMR",
       "symbol": "ر.ع.",
-      "flag": "https://restcountries.eu/data/omn.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/omn.gif"
     },
     {
       "name": "PAB - Panamanian balboa",
       "code": "PAB",
       "symbol": "B/.",
-      "flag": "https://restcountries.eu/data/pan.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/pan.gif"
     },
     {
       "name": "PEN - Peruvian sol",
       "code": "PEN",
       "symbol": "S/.",
-      "flag": "https://restcountries.eu/data/per.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/per.gif"
     },
     {
       "name": "PGK - Papua New Guinean kina",
       "code": "PGK",
       "symbol": "K",
-      "flag": "https://restcountries.eu/data/png.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/png.gif"
     },
     {
       "name": "PHP - Philippine peso",
       "code": "PHP",
       "symbol": "₱",
-      "flag": "https://restcountries.eu/data/phl.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/phl.gif"
     },
     {
       "name": "PKR - Pakistani rupee",
       "code": "PKR",
       "symbol": "₨",
-      "flag": "https://restcountries.eu/data/pak.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/pak.gif"
     },
     {
       "name": "PLN - Polish złoty",
       "code": "PLN",
       "symbol": "zł",
-      "flag": "https://restcountries.eu/data/pol.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/pol.gif"
     },
     {
       "name": "PYG - Paraguayan guaraní",
       "code": "PYG",
       "symbol": "₲",
-      "flag": "https://restcountries.eu/data/pry.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/pry.gif"
     },
     {
       "name": "QAR - Qatari riyal",
       "code": "QAR",
       "symbol": "ر.ق",
-      "flag": "https://restcountries.eu/data/qat.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/qat.gif"
     },
     {
       "name": "RON - Romanian leu",
       "code": "RON",
       "symbol": "lei",
-      "flag": "https://restcountries.eu/data/rou.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/rou.gif"
     },
     {
       "name": "RSD - Serbian dinar",
       "code": "RSD",
       "symbol": "дин.",
-      "flag": "https://restcountries.eu/data/srb.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/srb.gif"
     },
     {
       "name": "RUB - Russian ruble",
       "code": "RUB",
       "symbol": "₽",
-      "flag": "https://restcountries.eu/data/rus.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/rus.gif"
     },
     {
       "name": "RWF - Rwandan franc",
       "code": "RWF",
       "symbol": "Fr",
-      "flag": "https://restcountries.eu/data/rwa.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/rwa.gif"
     },
     {
       "name": "SAR - Saudi riyal",
       "code": "SAR",
       "symbol": "ر.س",
-      "flag": "https://restcountries.eu/data/sau.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/sau.gif"
     },
     {
       "name": "SBD - Solomon Islands dollar",
       "code": "SBD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/slb.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/slb.gif"
     },
     {
       "name": "SCR - Seychellois rupee",
       "code": "SCR",
       "symbol": "₨",
-      "flag": "https://restcountries.eu/data/syc.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/syc.gif"
     },
     {
       "name": "SDG - Sudanese pound",
       "code": "SDG",
       "symbol": "ج.س.",
-      "flag": "https://restcountries.eu/data/sdn.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/sdn.gif"
     },
     {
       "name": "SEK - Swedish krona",
       "code": "SEK",
       "symbol": "kr",
-      "flag": "https://restcountries.eu/data/swe.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/swe.gif"
     },
     {
       "name": "SHP - Saint Helena pound",
       "code": "SHP",
       "symbol": "£",
-      "flag": "https://restcountries.eu/data/shn.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/shn.gif"
     },
     {
       "name": "SLL - Sierra Leonean leone",
       "code": "SLL",
       "symbol": "Le",
-      "flag": "https://restcountries.eu/data/sle.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/sle.gif"
     },
     {
       "name": "SOS - Somali shilling",
       "code": "SOS",
       "symbol": "Sh",
-      "flag": "https://restcountries.eu/data/som.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/som.gif"
     },
     {
       "name": "SRD - Surinamese dollar",
       "code": "SRD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/sur.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/sur.gif"
     },
     {
       "name": "SSP - South Sudanese pound",
       "code": "SSP",
       "symbol": "£",
-      "flag": "https://restcountries.eu/data/ssd.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/ssd.gif"
     },
     {
       "name": "STD - São Tomé and Príncipe dobra",
       "code": "STD",
       "symbol": "Db",
-      "flag": "https://restcountries.eu/data/stp.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/stp.gif"
     },
     {
       "name": "SYP - Syrian pound",
       "code": "SYP",
       "symbol": "£",
-      "flag": "https://restcountries.eu/data/syr.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/syr.gif"
     },
     {
       "name": "SZL - Swazi lilangeni",
       "code": "SZL",
       "symbol": "L",
-      "flag": "https://restcountries.eu/data/swz.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/swz.gif"
     },
     {
       "name": "THB - Thai baht",
       "code": "THB",
       "symbol": "฿",
-      "flag": "https://restcountries.eu/data/tha.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/tha.gif"
     },
     {
       "name": "TJS - Tajikistani somoni",
       "code": "TJS",
       "symbol": "ЅМ",
-      "flag": "https://restcountries.eu/data/tjk.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/tjk.gif"
     },
     {
       "name": "TMT - Turkmenistan manat",
       "code": "TMT",
       "symbol": "m",
-      "flag": "https://restcountries.eu/data/tkm.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/tkm.gif"
     },
     {
       "name": "TND - Tunisian dinar",
       "code": "TND",
       "symbol": "د.ت",
-      "flag": "https://restcountries.eu/data/tun.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/tun.gif"
     },
     {
       "name": "TOP - Tongan paʻanga",
       "code": "TOP",
       "symbol": "T$",
-      "flag": "https://restcountries.eu/data/ton.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/ton.gif"
     },
     {
       "name": "TRY - Turkish lira",
       "code": "TRY",
       "symbol": "",
-      "flag": "https://restcountries.eu/data/tur.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/tur.gif"
     },
     {
       "name": "TTD - Trinidad and Tobago dollar",
       "code": "TTD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/tto.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/tto.gif"
     },
     {
       "name": "TWD - New Taiwan dollar",
       "code": "TWD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/twn.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/twn.gif"
     },
     {
       "name": "TZS - Tanzanian shilling",
       "code": "TZS",
       "symbol": "Sh",
-      "flag": "https://restcountries.eu/data/tza.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/tza.gif"
     },
     {
       "name": "UAH - Ukrainian hryvnia",
       "code": "UAH",
       "symbol": "₴",
-      "flag": "https://restcountries.eu/data/ukr.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/ukr.gif"
     },
     {
       "name": "UGX - Ugandan shilling",
       "code": "UGX",
       "symbol": "Sh",
-      "flag": "https://restcountries.eu/data/uga.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/uga.gif"
     },
     {
       "name": "USD - United State Dollar",
       "code": "USD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/asm.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/usa.gif"
     },
     {
       "name": "UYU - Uruguayan peso",
       "code": "UYU",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/ury.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/ury.gif"
     },
     {
       "name": "UZS - Uzbekistani so'm",
       "code": "UZS",
       "symbol": "",
-      "flag": "https://restcountries.eu/data/uzb.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/uzb.gif"
     },
     {
       "name": "VEF - Venezuelan bolívar",
       "code": "VEF",
       "symbol": "Bs F",
-      "flag": "https://restcountries.eu/data/ven.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/ven.gif"
     },
     {
       "name": "VND - Vietnamese đồng",
       "code": "VND",
       "symbol": "₫",
-      "flag": "https://restcountries.eu/data/vnm.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/vnm.gif"
     },
     {
       "name": "VUV - Vanuatu vatu",
       "code": "VUV",
       "symbol": "Vt",
-      "flag": "https://restcountries.eu/data/vut.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/vut.gif"
     },
     {
       "name": "WST - Samoan tālā",
       "code": "WST",
       "symbol": "T",
-      "flag": "https://restcountries.eu/data/wsm.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/wsm.gif"
     },
     {
       "name": "XAF - Central African CFA franc",
       "code": "XAF",
       "symbol": "Fr",
-      "flag": "https://restcountries.eu/data/cmr.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/cmr.gif"
     },
     {
       "name": "XCD - East Caribbean dollar",
       "code": "XCD",
       "symbol": "$",
-      "flag": "https://restcountries.eu/data/aia.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/aia.gif"
     },
     {
       "name": "XOF - West African CFA franc",
       "code": "XOF",
       "symbol": "Fr",
-      "flag": "https://restcountries.eu/data/ben.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/ben.gif"
     },
     {
       "name": "XPF - CFP franc",
       "code": "XPF",
       "symbol": "Fr",
-      "flag": "https://restcountries.eu/data/pyf.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/pyf.gif"
     },
     {
       "name": "YER - Yemeni rial",
       "code": "YER",
       "symbol": "﷼",
-      "flag": "https://restcountries.eu/data/yem.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/yem.gif"
     },
     {
       "name": "ZAR - South African rand",
       "code": "ZAR",
       "symbol": "R",
-      "flag": "https://restcountries.eu/data/zaf.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/zaf.gif"
     },
     {
       "name": "ZMW - Zambian kwacha",
       "code": "ZMW",
       "symbol": "ZK",
-      "flag": "https://restcountries.eu/data/zmb.svg"
+      "flag": "https://raw.githubusercontent.com/MatteusBrevik/formio-helpers/master/img/flags/gif/zmb.gif"
     }
    ]
