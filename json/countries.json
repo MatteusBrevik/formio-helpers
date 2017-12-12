@@ -1,0 +1,2492 @@
+[
+    {
+      "name": "Afghanistan",
+      "code": "AF",
+      "callingCode": "093",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "latitude": "33",
+      "longitude": 65,
+      "flag": "https://restcountries.eu/data/afg.svg"
+    },
+    {
+      "name": "Åland Islands",
+      "code": "AX",
+      "callingCode": "358",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "60.116667",
+      "longitude": 19.9,
+      "flag": "https://restcountries.eu/data/ala.svg"
+    },
+    {
+      "name": "Albania",
+      "code": "AL",
+      "callingCode": "355",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "41",
+      "longitude": 20,
+      "flag": "https://restcountries.eu/data/alb.svg"
+    },
+    {
+      "name": "Algeria",
+      "code": "DZ",
+      "callingCode": "213",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "latitude": "28",
+      "longitude": 3,
+      "flag": "https://restcountries.eu/data/dza.svg"
+    },
+    {
+      "name": "American Samoa",
+      "code": "AS",
+      "callingCode": "1684",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "latitude": "-14.33333333",
+      "longitude": -170,
+      "flag": "https://restcountries.eu/data/asm.svg"
+    },
+    {
+      "name": "Andorra",
+      "code": "AD",
+      "callingCode": "376",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "42.5",
+      "longitude": 1.5,
+      "flag": "https://restcountries.eu/data/and.svg"
+    },
+    {
+      "name": "Angola",
+      "code": "AO",
+      "callingCode": "244",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "latitude": "-12.5",
+      "longitude": 18.5,
+      "flag": "https://restcountries.eu/data/ago.svg"
+    },
+    {
+      "name": "Anguilla",
+      "code": "AI",
+      "callingCode": "1264",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "18.25",
+      "longitude": -63.16666666,
+      "flag": "https://restcountries.eu/data/aia.svg"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "code": "AG",
+      "callingCode": "1268",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "17.05",
+      "longitude": -61.8,
+      "flag": "https://restcountries.eu/data/atg.svg"
+    },
+    {
+      "name": "Argentina",
+      "code": "AR",
+      "callingCode": "054",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "-34",
+      "longitude": -64,
+      "flag": "https://restcountries.eu/data/arg.svg"
+    },
+    {
+      "name": "Armenia",
+      "code": "AM",
+      "callingCode": "374",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "40",
+      "longitude": 45,
+      "flag": "https://restcountries.eu/data/arm.svg"
+    },
+    {
+      "name": "Aruba",
+      "code": "AW",
+      "callingCode": "297",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "12.5",
+      "longitude": -69.96666666,
+      "flag": "https://restcountries.eu/data/abw.svg"
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "callingCode": "061",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "latitude": "-27",
+      "longitude": 133,
+      "flag": "https://restcountries.eu/data/aus.svg"
+    },
+    {
+      "name": "Austria",
+      "code": "AT",
+      "callingCode": "043",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "latitude": "47.33333333",
+      "longitude": 13.33333333,
+      "flag": "https://restcountries.eu/data/aut.svg"
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "callingCode": "994",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "40.5",
+      "longitude": 47.5,
+      "flag": "https://restcountries.eu/data/aze.svg"
+    },
+    {
+      "name": "Bahamas",
+      "code": "BS",
+      "callingCode": "1242",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "24.25",
+      "longitude": -76,
+      "flag": "https://restcountries.eu/data/bhs.svg"
+    },
+    {
+      "name": "Bahrain",
+      "code": "BH",
+      "callingCode": "973",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "26",
+      "longitude": 50.55,
+      "flag": "https://restcountries.eu/data/bhr.svg"
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BD",
+      "callingCode": "880",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "latitude": "24",
+      "longitude": 90,
+      "flag": "https://restcountries.eu/data/bgd.svg"
+    },
+    {
+      "name": "Barbados",
+      "code": "BB",
+      "callingCode": "1246",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "13.16666666",
+      "longitude": -59.53333333,
+      "flag": "https://restcountries.eu/data/brb.svg"
+    },
+    {
+      "name": "Belarus",
+      "code": "BY",
+      "callingCode": "375",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "latitude": "53",
+      "longitude": 28,
+      "flag": "https://restcountries.eu/data/blr.svg"
+    },
+    {
+      "name": "Belgium",
+      "code": "BE",
+      "callingCode": "032",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "latitude": "50.83333333",
+      "longitude": 4,
+      "flag": "https://restcountries.eu/data/bel.svg"
+    },
+    {
+      "name": "Belize",
+      "code": "BZ",
+      "callingCode": "501",
+      "region": "Americas",
+      "subregion": "Central America",
+      "latitude": "17.25",
+      "longitude": -88.75,
+      "flag": "https://restcountries.eu/data/blz.svg"
+    },
+    {
+      "name": "Benin",
+      "code": "BJ",
+      "callingCode": "229",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "9.5",
+      "longitude": 2.25,
+      "flag": "https://restcountries.eu/data/ben.svg"
+    },
+    {
+      "name": "Bermuda",
+      "code": "BM",
+      "callingCode": "1441",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "latitude": "32.33333333",
+      "longitude": -64.75,
+      "flag": "https://restcountries.eu/data/bmu.svg"
+    },
+    {
+      "name": "Bhutan",
+      "code": "BT",
+      "callingCode": "975",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "latitude": "27.5",
+      "longitude": 90.5,
+      "flag": "https://restcountries.eu/data/btn.svg"
+    },
+    {
+      "name": "Bolivia (Plurinational State of)",
+      "code": "BO",
+      "callingCode": "591",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "-17",
+      "longitude": -65,
+      "flag": "https://restcountries.eu/data/bol.svg"
+    },
+    {
+      "name": "Bonaire",
+      "code": " Sint Eustatius and Saba",
+      "callingCode": "BQ",
+      "region": "5997",
+      "subregion": "Americas",
+      "latitude": "Caribbean",
+      "longitude": 12.15,
+      "flag": "-68.266667"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "callingCode": "387",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "44",
+      "longitude": 18,
+      "flag": "https://restcountries.eu/data/bih.svg"
+    },
+    {
+      "name": "Botswana",
+      "code": "BW",
+      "callingCode": "267",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "latitude": "-22",
+      "longitude": 24,
+      "flag": "https://restcountries.eu/data/bwa.svg"
+    },
+    {
+      "name": "Bouvet Island",
+      "code": "BV",
+      "callingCode": "",
+      "region": "",
+      "subregion": "",
+      "latitude": "-54.43333333",
+      "longitude": 3.4,
+      "flag": "https://restcountries.eu/data/bvt.svg"
+    },
+    {
+      "name": "Brazil",
+      "code": "BR",
+      "callingCode": "055",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "-10",
+      "longitude": -55,
+      "flag": "https://restcountries.eu/data/bra.svg"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "code": "IO",
+      "callingCode": "246",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "-6",
+      "longitude": 71.5,
+      "flag": "https://restcountries.eu/data/iot.svg"
+    },
+    {
+      "name": "Brunei Darussalam",
+      "code": "BN",
+      "callingCode": "673",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "latitude": "4.5",
+      "longitude": 114.66666666,
+      "flag": "https://restcountries.eu/data/brn.svg"
+    },
+    {
+      "name": "Bulgaria",
+      "code": "BG",
+      "callingCode": "359",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "latitude": "43",
+      "longitude": 25,
+      "flag": "https://restcountries.eu/data/bgr.svg"
+    },
+    {
+      "name": "Burkina Faso",
+      "code": "BF",
+      "callingCode": "226",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "13",
+      "longitude": -2,
+      "flag": "https://restcountries.eu/data/bfa.svg"
+    },
+    {
+      "name": "Burundi",
+      "code": "BI",
+      "callingCode": "257",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "-3.5",
+      "longitude": 30,
+      "flag": "https://restcountries.eu/data/bdi.svg"
+    },
+    {
+      "name": "Cabo Verde",
+      "code": "CV",
+      "callingCode": "238",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "16",
+      "longitude": -24,
+      "flag": "https://restcountries.eu/data/cpv.svg"
+    },
+    {
+      "name": "Cambodia",
+      "code": "KH",
+      "callingCode": "855",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "latitude": "13",
+      "longitude": 105,
+      "flag": "https://restcountries.eu/data/khm.svg"
+    },
+    {
+      "name": "Cameroon",
+      "code": "CM",
+      "callingCode": "237",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "latitude": "6",
+      "longitude": 12,
+      "flag": "https://restcountries.eu/data/cmr.svg"
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "callingCode": "001",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "latitude": "60",
+      "longitude": -95,
+      "flag": "https://restcountries.eu/data/can.svg"
+    },
+    {
+      "name": "Cayman Islands",
+      "code": "KY",
+      "callingCode": "1345",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "19.5",
+      "longitude": -80.5,
+      "flag": "https://restcountries.eu/data/cym.svg"
+    },
+    {
+      "name": "Central African Republic",
+      "code": "CF",
+      "callingCode": "236",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "latitude": "7",
+      "longitude": 21,
+      "flag": "https://restcountries.eu/data/caf.svg"
+    },
+    {
+      "name": "Chad",
+      "code": "TD",
+      "callingCode": "235",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "latitude": "15",
+      "longitude": 19,
+      "flag": "https://restcountries.eu/data/tcd.svg"
+    },
+    {
+      "name": "Chile",
+      "code": "CL",
+      "callingCode": "056",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "-30",
+      "longitude": -71,
+      "flag": "https://restcountries.eu/data/chl.svg"
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "callingCode": "086",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "latitude": "35",
+      "longitude": 105,
+      "flag": "https://restcountries.eu/data/chn.svg"
+    },
+    {
+      "name": "Christmas Island",
+      "code": "CX",
+      "callingCode": "061",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "latitude": "-10.5",
+      "longitude": 105.66666666,
+      "flag": "https://restcountries.eu/data/cxr.svg"
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "code": "CC",
+      "callingCode": "061",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "latitude": "-12.5",
+      "longitude": 96.83333333,
+      "flag": "https://restcountries.eu/data/cck.svg"
+    },
+    {
+      "name": "Colombia",
+      "code": "CO",
+      "callingCode": "057",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "4",
+      "longitude": -72,
+      "flag": "https://restcountries.eu/data/col.svg"
+    },
+    {
+      "name": "Comoros",
+      "code": "KM",
+      "callingCode": "269",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "-12.16666666",
+      "longitude": 44.25,
+      "flag": "https://restcountries.eu/data/com.svg"
+    },
+    {
+      "name": "Congo",
+      "code": "CG",
+      "callingCode": "242",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "latitude": "-1",
+      "longitude": 15,
+      "flag": "https://restcountries.eu/data/cog.svg"
+    },
+    {
+      "name": "Congo (Democratic Republic of the)",
+      "code": "CD",
+      "callingCode": "243",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "latitude": "0",
+      "longitude": 25,
+      "flag": "https://restcountries.eu/data/cod.svg"
+    },
+    {
+      "name": "Cook Islands",
+      "code": "CK",
+      "callingCode": "682",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "latitude": "-21.23333333",
+      "longitude": -159.76666666,
+      "flag": "https://restcountries.eu/data/cok.svg"
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CR",
+      "callingCode": "506",
+      "region": "Americas",
+      "subregion": "Central America",
+      "latitude": "10",
+      "longitude": -84,
+      "flag": "https://restcountries.eu/data/cri.svg"
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "code": "CI",
+      "callingCode": "225",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "8",
+      "longitude": -5,
+      "flag": "https://restcountries.eu/data/civ.svg"
+    },
+    {
+      "name": "Croatia",
+      "code": "HR",
+      "callingCode": "385",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "45.16666666",
+      "longitude": 15.5,
+      "flag": "https://restcountries.eu/data/hrv.svg"
+    },
+    {
+      "name": "Cuba",
+      "code": "CU",
+      "callingCode": "053",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "21.5",
+      "longitude": -80,
+      "flag": "https://restcountries.eu/data/cub.svg"
+    },
+    {
+      "name": "Curaçao",
+      "code": "CW",
+      "callingCode": "599",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "12.116667",
+      "longitude": -68.933333,
+      "flag": "https://restcountries.eu/data/cuw.svg"
+    },
+    {
+      "name": "Cyprus",
+      "code": "CY",
+      "callingCode": "357",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "35",
+      "longitude": 33,
+      "flag": "https://restcountries.eu/data/cyp.svg"
+    },
+    {
+      "name": "Czech Republic",
+      "code": "CZ",
+      "callingCode": "420",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "latitude": "49.75",
+      "longitude": 15.5,
+      "flag": "https://restcountries.eu/data/cze.svg"
+    },
+    {
+      "name": "Denmark",
+      "code": "DK",
+      "callingCode": "045",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "56",
+      "longitude": 10,
+      "flag": "https://restcountries.eu/data/dnk.svg"
+    },
+    {
+      "name": "Djibouti",
+      "code": "DJ",
+      "callingCode": "253",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "11.5",
+      "longitude": 43,
+      "flag": "https://restcountries.eu/data/dji.svg"
+    },
+    {
+      "name": "Dominica",
+      "code": "DM",
+      "callingCode": "1767",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "15.41666666",
+      "longitude": -61.33333333,
+      "flag": "https://restcountries.eu/data/dma.svg"
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "DO",
+      "callingCode": "1809",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "19",
+      "longitude": -70.66666666,
+      "flag": "https://restcountries.eu/data/dom.svg"
+    },
+    {
+      "name": "Ecuador",
+      "code": "EC",
+      "callingCode": "593",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "-2",
+      "longitude": -77.5,
+      "flag": "https://restcountries.eu/data/ecu.svg"
+    },
+    {
+      "name": "Egypt",
+      "code": "EG",
+      "callingCode": "020",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "latitude": "27",
+      "longitude": 30,
+      "flag": "https://restcountries.eu/data/egy.svg"
+    },
+    {
+      "name": "El Salvador",
+      "code": "SV",
+      "callingCode": "503",
+      "region": "Americas",
+      "subregion": "Central America",
+      "latitude": "13.83333333",
+      "longitude": -88.91666666,
+      "flag": "https://restcountries.eu/data/slv.svg"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "callingCode": "240",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "latitude": "2",
+      "longitude": 10,
+      "flag": "https://restcountries.eu/data/gnq.svg"
+    },
+    {
+      "name": "Eritrea",
+      "code": "ER",
+      "callingCode": "291",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "15",
+      "longitude": 39,
+      "flag": "https://restcountries.eu/data/eri.svg"
+    },
+    {
+      "name": "Estonia",
+      "code": "EE",
+      "callingCode": "372",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "59",
+      "longitude": 26,
+      "flag": "https://restcountries.eu/data/est.svg"
+    },
+    {
+      "name": "Ethiopia",
+      "code": "ET",
+      "callingCode": "251",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "8",
+      "longitude": 38,
+      "flag": "https://restcountries.eu/data/eth.svg"
+    },
+    {
+      "name": "Falkland Islands (Malvinas)",
+      "code": "FK",
+      "callingCode": "500",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "-51.75",
+      "longitude": -59,
+      "flag": "https://restcountries.eu/data/flk.svg"
+    },
+    {
+      "name": "Faroe Islands",
+      "code": "FO",
+      "callingCode": "298",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "62",
+      "longitude": -7,
+      "flag": "https://restcountries.eu/data/fro.svg"
+    },
+    {
+      "name": "Fiji",
+      "code": "FJ",
+      "callingCode": "679",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "latitude": "-18",
+      "longitude": 175,
+      "flag": "https://restcountries.eu/data/fji.svg"
+    },
+    {
+      "name": "Finland",
+      "code": "FI",
+      "callingCode": "358",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "64",
+      "longitude": 26,
+      "flag": "https://restcountries.eu/data/fin.svg"
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "callingCode": "033",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "latitude": "46",
+      "longitude": 2,
+      "flag": "https://restcountries.eu/data/fra.svg"
+    },
+    {
+      "name": "French Guiana",
+      "code": "GF",
+      "callingCode": "594",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "4",
+      "longitude": -53,
+      "flag": "https://restcountries.eu/data/guf.svg"
+    },
+    {
+      "name": "French Polynesia",
+      "code": "PF",
+      "callingCode": "689",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "latitude": "-15",
+      "longitude": -140,
+      "flag": "https://restcountries.eu/data/pyf.svg"
+    },
+    {
+      "name": "French Southern Territories",
+      "code": "TF",
+      "callingCode": "",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "latitude": "-49.25",
+      "longitude": 69.167,
+      "flag": "https://restcountries.eu/data/atf.svg"
+    },
+    {
+      "name": "Gabon",
+      "code": "GA",
+      "callingCode": "241",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "latitude": "-1",
+      "longitude": 11.75,
+      "flag": "https://restcountries.eu/data/gab.svg"
+    },
+    {
+      "name": "Gambia",
+      "code": "GM",
+      "callingCode": "220",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "13.46666666",
+      "longitude": -16.56666666,
+      "flag": "https://restcountries.eu/data/gmb.svg"
+    },
+    {
+      "name": "Georgia",
+      "code": "GE",
+      "callingCode": "995",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "42",
+      "longitude": 43.5,
+      "flag": "https://restcountries.eu/data/geo.svg"
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "callingCode": "049",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "latitude": "51",
+      "longitude": 9,
+      "flag": "https://restcountries.eu/data/deu.svg"
+    },
+    {
+      "name": "Ghana",
+      "code": "GH",
+      "callingCode": "233",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "8",
+      "longitude": -2,
+      "flag": "https://restcountries.eu/data/gha.svg"
+    },
+    {
+      "name": "Gibraltar",
+      "code": "GI",
+      "callingCode": "350",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "36.13333333",
+      "longitude": -5.35,
+      "flag": "https://restcountries.eu/data/gib.svg"
+    },
+    {
+      "name": "Greece",
+      "code": "GR",
+      "callingCode": "030",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "39",
+      "longitude": 22,
+      "flag": "https://restcountries.eu/data/grc.svg"
+    },
+    {
+      "name": "Greenland",
+      "code": "GL",
+      "callingCode": "299",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "latitude": "72",
+      "longitude": -40,
+      "flag": "https://restcountries.eu/data/grl.svg"
+    },
+    {
+      "name": "Grenada",
+      "code": "GD",
+      "callingCode": "1473",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "12.11666666",
+      "longitude": -61.66666666,
+      "flag": "https://restcountries.eu/data/grd.svg"
+    },
+    {
+      "name": "Guadeloupe",
+      "code": "GP",
+      "callingCode": "590",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "16.25",
+      "longitude": -61.583333,
+      "flag": "https://restcountries.eu/data/glp.svg"
+    },
+    {
+      "name": "Guam",
+      "code": "GU",
+      "callingCode": "1671",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "latitude": "13.46666666",
+      "longitude": 144.78333333,
+      "flag": "https://restcountries.eu/data/gum.svg"
+    },
+    {
+      "name": "Guatemala",
+      "code": "GT",
+      "callingCode": "502",
+      "region": "Americas",
+      "subregion": "Central America",
+      "latitude": "15.5",
+      "longitude": -90.25,
+      "flag": "https://restcountries.eu/data/gtm.svg"
+    },
+    {
+      "name": "Guernsey",
+      "code": "GG",
+      "callingCode": "044",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "49.46666666",
+      "longitude": -2.58333333,
+      "flag": "https://restcountries.eu/data/ggy.svg"
+    },
+    {
+      "name": "Guinea",
+      "code": "GN",
+      "callingCode": "224",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "11",
+      "longitude": -10,
+      "flag": "https://restcountries.eu/data/gin.svg"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "code": "GW",
+      "callingCode": "245",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "12",
+      "longitude": -15,
+      "flag": "https://restcountries.eu/data/gnb.svg"
+    },
+    {
+      "name": "Guyana",
+      "code": "GY",
+      "callingCode": "592",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "5",
+      "longitude": -59,
+      "flag": "https://restcountries.eu/data/guy.svg"
+    },
+    {
+      "name": "Haiti",
+      "code": "HT",
+      "callingCode": "509",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "19",
+      "longitude": -72.41666666,
+      "flag": "https://restcountries.eu/data/hti.svg"
+    },
+    {
+      "name": "Heard Island and McDonald Islands",
+      "code": "HM",
+      "callingCode": "",
+      "region": "",
+      "subregion": "",
+      "latitude": "-53.1",
+      "longitude": 72.51666666,
+      "flag": "https://restcountries.eu/data/hmd.svg"
+    },
+    {
+      "name": "Holy See",
+      "code": "VA",
+      "callingCode": "379",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "41.9",
+      "longitude": 12.45,
+      "flag": "https://restcountries.eu/data/vat.svg"
+    },
+    {
+      "name": "Honduras",
+      "code": "HN",
+      "callingCode": "504",
+      "region": "Americas",
+      "subregion": "Central America",
+      "latitude": "15",
+      "longitude": -86.5,
+      "flag": "https://restcountries.eu/data/hnd.svg"
+    },
+    {
+      "name": "Hong Kong",
+      "code": "HK",
+      "callingCode": "852",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "latitude": "22.25",
+      "longitude": 114.16666666,
+      "flag": "https://restcountries.eu/data/hkg.svg"
+    },
+    {
+      "name": "Hungary",
+      "code": "HU",
+      "callingCode": "036",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "latitude": "47",
+      "longitude": 20,
+      "flag": "https://restcountries.eu/data/hun.svg"
+    },
+    {
+      "name": "Iceland",
+      "code": "IS",
+      "callingCode": "354",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "65",
+      "longitude": -18,
+      "flag": "https://restcountries.eu/data/isl.svg"
+    },
+    {
+      "name": "India",
+      "code": "IN",
+      "callingCode": "091",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "latitude": "20",
+      "longitude": 77,
+      "flag": "https://restcountries.eu/data/ind.svg"
+    },
+    {
+      "name": "Indonesia",
+      "code": "ID",
+      "callingCode": "062",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "latitude": "-5",
+      "longitude": 120,
+      "flag": "https://restcountries.eu/data/idn.svg"
+    },
+    {
+      "name": "Iran (Islamic Republic of)",
+      "code": "IR",
+      "callingCode": "098",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "latitude": "32",
+      "longitude": 53,
+      "flag": "https://restcountries.eu/data/irn.svg"
+    },
+    {
+      "name": "Iraq",
+      "code": "IQ",
+      "callingCode": "964",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "33",
+      "longitude": 44,
+      "flag": "https://restcountries.eu/data/irq.svg"
+    },
+    {
+      "name": "Ireland",
+      "code": "IE",
+      "callingCode": "353",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "53",
+      "longitude": -8,
+      "flag": "https://restcountries.eu/data/irl.svg"
+    },
+    {
+      "name": "Isle of Man",
+      "code": "IM",
+      "callingCode": "044",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "54.25",
+      "longitude": -4.5,
+      "flag": "https://restcountries.eu/data/imn.svg"
+    },
+    {
+      "name": "Israel",
+      "code": "IL",
+      "callingCode": "972",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "31.5",
+      "longitude": 34.75,
+      "flag": "https://restcountries.eu/data/isr.svg"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "callingCode": "039",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "42.83333333",
+      "longitude": 12.83333333,
+      "flag": "https://restcountries.eu/data/ita.svg"
+    },
+    {
+      "name": "Jamaica",
+      "code": "JM",
+      "callingCode": "1876",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "18.25",
+      "longitude": -77.5,
+      "flag": "https://restcountries.eu/data/jam.svg"
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "callingCode": "081",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "latitude": "36",
+      "longitude": 138,
+      "flag": "https://restcountries.eu/data/jpn.svg"
+    },
+    {
+      "name": "Jersey",
+      "code": "JE",
+      "callingCode": "044",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "49.25",
+      "longitude": -2.16666666,
+      "flag": "https://restcountries.eu/data/jey.svg"
+    },
+    {
+      "name": "Jordan",
+      "code": "JO",
+      "callingCode": "962",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "31",
+      "longitude": 36,
+      "flag": "https://restcountries.eu/data/jor.svg"
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "callingCode": "076",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "latitude": "48",
+      "longitude": 68,
+      "flag": "https://restcountries.eu/data/kaz.svg"
+    },
+    {
+      "name": "Kenya",
+      "code": "KE",
+      "callingCode": "254",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "1",
+      "longitude": 38,
+      "flag": "https://restcountries.eu/data/ken.svg"
+    },
+    {
+      "name": "Kiribati",
+      "code": "KI",
+      "callingCode": "686",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "latitude": "1.41666666",
+      "longitude": 173,
+      "flag": "https://restcountries.eu/data/kir.svg"
+    },
+    {
+      "name": "Korea (Democratic People's Republic of)",
+      "code": "KP",
+      "callingCode": "850",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "latitude": "40",
+      "longitude": 127,
+      "flag": "https://restcountries.eu/data/prk.svg"
+    },
+    {
+      "name": "Korea (Republic of)",
+      "code": "KR",
+      "callingCode": "082",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "latitude": "37",
+      "longitude": 127.5,
+      "flag": "https://restcountries.eu/data/kor.svg"
+    },
+    {
+      "name": "Kuwait",
+      "code": "KW",
+      "callingCode": "965",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "29.5",
+      "longitude": 45.75,
+      "flag": "https://restcountries.eu/data/kwt.svg"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "code": "KG",
+      "callingCode": "996",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "latitude": "41",
+      "longitude": 75,
+      "flag": "https://restcountries.eu/data/kgz.svg"
+    },
+    {
+      "name": "Lao People's Democratic Republic",
+      "code": "LA",
+      "callingCode": "856",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "latitude": "18",
+      "longitude": 105,
+      "flag": "https://restcountries.eu/data/lao.svg"
+    },
+    {
+      "name": "Latvia",
+      "code": "LV",
+      "callingCode": "371",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "57",
+      "longitude": 25,
+      "flag": "https://restcountries.eu/data/lva.svg"
+    },
+    {
+      "name": "Lebanon",
+      "code": "LB",
+      "callingCode": "961",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "33.83333333",
+      "longitude": 35.83333333,
+      "flag": "https://restcountries.eu/data/lbn.svg"
+    },
+    {
+      "name": "Lesotho",
+      "code": "LS",
+      "callingCode": "266",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "latitude": "-29.5",
+      "longitude": 28.5,
+      "flag": "https://restcountries.eu/data/lso.svg"
+    },
+    {
+      "name": "Liberia",
+      "code": "LR",
+      "callingCode": "231",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "6.5",
+      "longitude": -9.5,
+      "flag": "https://restcountries.eu/data/lbr.svg"
+    },
+    {
+      "name": "Libya",
+      "code": "LY",
+      "callingCode": "218",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "latitude": "25",
+      "longitude": 17,
+      "flag": "https://restcountries.eu/data/lby.svg"
+    },
+    {
+      "name": "Liechtenstein",
+      "code": "LI",
+      "callingCode": "423",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "latitude": "47.26666666",
+      "longitude": 9.53333333,
+      "flag": "https://restcountries.eu/data/lie.svg"
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT",
+      "callingCode": "370",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "56",
+      "longitude": 24,
+      "flag": "https://restcountries.eu/data/ltu.svg"
+    },
+    {
+      "name": "Luxembourg",
+      "code": "LU",
+      "callingCode": "352",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "latitude": "49.75",
+      "longitude": 6.16666666,
+      "flag": "https://restcountries.eu/data/lux.svg"
+    },
+    {
+      "name": "Macao",
+      "code": "MO",
+      "callingCode": "853",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "latitude": "22.16666666",
+      "longitude": 113.55,
+      "flag": "https://restcountries.eu/data/mac.svg"
+    },
+    {
+      "name": "Macedonia (the former Yugoslav Republic of)",
+      "code": "MK",
+      "callingCode": "389",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "41.83333333",
+      "longitude": 22,
+      "flag": "https://restcountries.eu/data/mkd.svg"
+    },
+    {
+      "name": "Madagascar",
+      "code": "MG",
+      "callingCode": "261",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "-20",
+      "longitude": 47,
+      "flag": "https://restcountries.eu/data/mdg.svg"
+    },
+    {
+      "name": "Malawi",
+      "code": "MW",
+      "callingCode": "265",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "-13.5",
+      "longitude": 34,
+      "flag": "https://restcountries.eu/data/mwi.svg"
+    },
+    {
+      "name": "Malaysia",
+      "code": "MY",
+      "callingCode": "060",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "latitude": "2.5",
+      "longitude": 112.5,
+      "flag": "https://restcountries.eu/data/mys.svg"
+    },
+    {
+      "name": "Maldives",
+      "code": "MV",
+      "callingCode": "960",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "latitude": "3.25",
+      "longitude": 73,
+      "flag": "https://restcountries.eu/data/mdv.svg"
+    },
+    {
+      "name": "Mali",
+      "code": "ML",
+      "callingCode": "223",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "17",
+      "longitude": -4,
+      "flag": "https://restcountries.eu/data/mli.svg"
+    },
+    {
+      "name": "Malta",
+      "code": "MT",
+      "callingCode": "356",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "35.83333333",
+      "longitude": 14.58333333,
+      "flag": "https://restcountries.eu/data/mlt.svg"
+    },
+    {
+      "name": "Marshall Islands",
+      "code": "MH",
+      "callingCode": "692",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "latitude": "9",
+      "longitude": 168,
+      "flag": "https://restcountries.eu/data/mhl.svg"
+    },
+    {
+      "name": "Martinique",
+      "code": "MQ",
+      "callingCode": "596",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "14.666667",
+      "longitude": -61,
+      "flag": "https://restcountries.eu/data/mtq.svg"
+    },
+    {
+      "name": "Mauritania",
+      "code": "MR",
+      "callingCode": "222",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "20",
+      "longitude": -12,
+      "flag": "https://restcountries.eu/data/mrt.svg"
+    },
+    {
+      "name": "Mauritius",
+      "code": "MU",
+      "callingCode": "230",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "-20.28333333",
+      "longitude": 57.55,
+      "flag": "https://restcountries.eu/data/mus.svg"
+    },
+    {
+      "name": "Mayotte",
+      "code": "YT",
+      "callingCode": "262",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "-12.83333333",
+      "longitude": 45.16666666,
+      "flag": "https://restcountries.eu/data/myt.svg"
+    },
+    {
+      "name": "Mexico",
+      "code": "MX",
+      "callingCode": "052",
+      "region": "Americas",
+      "subregion": "Central America",
+      "latitude": "23",
+      "longitude": -102,
+      "flag": "https://restcountries.eu/data/mex.svg"
+    },
+    {
+      "name": "Micronesia (Federated States of)",
+      "code": "FM",
+      "callingCode": "691",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "latitude": "6.91666666",
+      "longitude": 158.25,
+      "flag": "https://restcountries.eu/data/fsm.svg"
+    },
+    {
+      "name": "Moldova (Republic of)",
+      "code": "MD",
+      "callingCode": "373",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "latitude": "47",
+      "longitude": 29,
+      "flag": "https://restcountries.eu/data/mda.svg"
+    },
+    {
+      "name": "Monaco",
+      "code": "MC",
+      "callingCode": "377",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "latitude": "43.73333333",
+      "longitude": 7.4,
+      "flag": "https://restcountries.eu/data/mco.svg"
+    },
+    {
+      "name": "Mongolia",
+      "code": "MN",
+      "callingCode": "976",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "latitude": "46",
+      "longitude": 105,
+      "flag": "https://restcountries.eu/data/mng.svg"
+    },
+    {
+      "name": "Montenegro",
+      "code": "ME",
+      "callingCode": "382",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "42.5",
+      "longitude": 19.3,
+      "flag": "https://restcountries.eu/data/mne.svg"
+    },
+    {
+      "name": "Montserrat",
+      "code": "MS",
+      "callingCode": "1664",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "16.75",
+      "longitude": -62.2,
+      "flag": "https://restcountries.eu/data/msr.svg"
+    },
+    {
+      "name": "Morocco",
+      "code": "MA",
+      "callingCode": "212",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "latitude": "32",
+      "longitude": -5,
+      "flag": "https://restcountries.eu/data/mar.svg"
+    },
+    {
+      "name": "Mozambique",
+      "code": "MZ",
+      "callingCode": "258",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "-18.25",
+      "longitude": 35,
+      "flag": "https://restcountries.eu/data/moz.svg"
+    },
+    {
+      "name": "Myanmar",
+      "code": "MM",
+      "callingCode": "095",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "latitude": "22",
+      "longitude": 98,
+      "flag": "https://restcountries.eu/data/mmr.svg"
+    },
+    {
+      "name": "Namibia",
+      "code": "NA",
+      "callingCode": "264",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "latitude": "-22",
+      "longitude": 17,
+      "flag": "https://restcountries.eu/data/nam.svg"
+    },
+    {
+      "name": "Nauru",
+      "code": "NR",
+      "callingCode": "674",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "latitude": "-0.53333333",
+      "longitude": 166.91666666,
+      "flag": "https://restcountries.eu/data/nru.svg"
+    },
+    {
+      "name": "Nepal",
+      "code": "NP",
+      "callingCode": "977",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "latitude": "28",
+      "longitude": 84,
+      "flag": "https://restcountries.eu/data/npl.svg"
+    },
+    {
+      "name": "Netherlands",
+      "code": "NL",
+      "callingCode": "031",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "latitude": "52.5",
+      "longitude": 5.75,
+      "flag": "https://restcountries.eu/data/nld.svg"
+    },
+    {
+      "name": "New Caledonia",
+      "code": "NC",
+      "callingCode": "687",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "latitude": "-21.5",
+      "longitude": 165.5,
+      "flag": "https://restcountries.eu/data/ncl.svg"
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZ",
+      "callingCode": "064",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "latitude": "-41",
+      "longitude": 174,
+      "flag": "https://restcountries.eu/data/nzl.svg"
+    },
+    {
+      "name": "Nicaragua",
+      "code": "NI",
+      "callingCode": "505",
+      "region": "Americas",
+      "subregion": "Central America",
+      "latitude": "13",
+      "longitude": -85,
+      "flag": "https://restcountries.eu/data/nic.svg"
+    },
+    {
+      "name": "Niger",
+      "code": "NE",
+      "callingCode": "227",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "16",
+      "longitude": 8,
+      "flag": "https://restcountries.eu/data/ner.svg"
+    },
+    {
+      "name": "Nigeria",
+      "code": "NG",
+      "callingCode": "234",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "10",
+      "longitude": 8,
+      "flag": "https://restcountries.eu/data/nga.svg"
+    },
+    {
+      "name": "Niue",
+      "code": "NU",
+      "callingCode": "683",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "latitude": "-19.03333333",
+      "longitude": -169.86666666,
+      "flag": "https://restcountries.eu/data/niu.svg"
+    },
+    {
+      "name": "Norfolk Island",
+      "code": "NF",
+      "callingCode": "672",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "latitude": "-29.03333333",
+      "longitude": 167.95,
+      "flag": "https://restcountries.eu/data/nfk.svg"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "code": "MP",
+      "callingCode": "1670",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "latitude": "15.2",
+      "longitude": 145.75,
+      "flag": "https://restcountries.eu/data/mnp.svg"
+    },
+    {
+      "name": "Norway",
+      "code": "NO",
+      "callingCode": "047",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "62",
+      "longitude": 10,
+      "flag": "https://restcountries.eu/data/nor.svg"
+    },
+    {
+      "name": "Oman",
+      "code": "OM",
+      "callingCode": "968",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "21",
+      "longitude": 57,
+      "flag": "https://restcountries.eu/data/omn.svg"
+    },
+    {
+      "name": "Pakistan",
+      "code": "PK",
+      "callingCode": "092",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "latitude": "30",
+      "longitude": 70,
+      "flag": "https://restcountries.eu/data/pak.svg"
+    },
+    {
+      "name": "Palau",
+      "code": "PW",
+      "callingCode": "680",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "latitude": "7.5",
+      "longitude": 134.5,
+      "flag": "https://restcountries.eu/data/plw.svg"
+    },
+    {
+      "name": "Palestine",
+      "code": " State of",
+      "callingCode": "PS",
+      "region": "970",
+      "subregion": "Asia",
+      "latitude": "Western Asia",
+      "longitude": 31.9,
+      "flag": "35.2"
+    },
+    {
+      "name": "Panama",
+      "code": "PA",
+      "callingCode": "507",
+      "region": "Americas",
+      "subregion": "Central America",
+      "latitude": "9",
+      "longitude": -80,
+      "flag": "https://restcountries.eu/data/pan.svg"
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "callingCode": "675",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "latitude": "-6",
+      "longitude": 147,
+      "flag": "https://restcountries.eu/data/png.svg"
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY",
+      "callingCode": "595",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "-23",
+      "longitude": -58,
+      "flag": "https://restcountries.eu/data/pry.svg"
+    },
+    {
+      "name": "Peru",
+      "code": "PE",
+      "callingCode": "051",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "-10",
+      "longitude": -76,
+      "flag": "https://restcountries.eu/data/per.svg"
+    },
+    {
+      "name": "Philippines",
+      "code": "PH",
+      "callingCode": "063",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "latitude": "13",
+      "longitude": 122,
+      "flag": "https://restcountries.eu/data/phl.svg"
+    },
+    {
+      "name": "Pitcairn",
+      "code": "PN",
+      "callingCode": "064",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "latitude": "-25.06666666",
+      "longitude": -130.1,
+      "flag": "https://restcountries.eu/data/pcn.svg"
+    },
+    {
+      "name": "Poland",
+      "code": "PL",
+      "callingCode": "048",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "latitude": "52",
+      "longitude": 20,
+      "flag": "https://restcountries.eu/data/pol.svg"
+    },
+    {
+      "name": "Portugal",
+      "code": "PT",
+      "callingCode": "351",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "39.5",
+      "longitude": -8,
+      "flag": "https://restcountries.eu/data/prt.svg"
+    },
+    {
+      "name": "Puerto Rico",
+      "code": "PR",
+      "callingCode": "1787",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "18.25",
+      "longitude": -66.5,
+      "flag": "https://restcountries.eu/data/pri.svg"
+    },
+    {
+      "name": "Qatar",
+      "code": "QA",
+      "callingCode": "974",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "25.5",
+      "longitude": 51.25,
+      "flag": "https://restcountries.eu/data/qat.svg"
+    },
+    {
+      "name": "Republic of Kosovo",
+      "code": "XK",
+      "callingCode": "383",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "latitude": "42.666667",
+      "longitude": 21.166667,
+      "flag": "https://restcountries.eu/data/kos.svg"
+    },
+    {
+      "name": "Réunion",
+      "code": "RE",
+      "callingCode": "262",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "-21.15",
+      "longitude": 55.5,
+      "flag": "https://restcountries.eu/data/reu.svg"
+    },
+    {
+      "name": "Romania",
+      "code": "RO",
+      "callingCode": "040",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "latitude": "46",
+      "longitude": 25,
+      "flag": "https://restcountries.eu/data/rou.svg"
+    },
+    {
+      "name": "Russian Federation",
+      "code": "RU",
+      "callingCode": "007",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "latitude": "60",
+      "longitude": 100,
+      "flag": "https://restcountries.eu/data/rus.svg"
+    },
+    {
+      "name": "Rwanda",
+      "code": "RW",
+      "callingCode": "250",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "-2",
+      "longitude": 30,
+      "flag": "https://restcountries.eu/data/rwa.svg"
+    },
+    {
+      "name": "Saint Barthélemy",
+      "code": "BL",
+      "callingCode": "590",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "18.5",
+      "longitude": -63.41666666,
+      "flag": "https://restcountries.eu/data/blm.svg"
+    },
+    {
+      "name": "Saint Helena",
+      "code": " Ascension and Tristan da Cunha",
+      "callingCode": "SH",
+      "region": "290",
+      "subregion": "Africa",
+      "latitude": "Western Africa",
+      "longitude": -15.95,
+      "flag": "-5.7"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "code": "KN",
+      "callingCode": "1869",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "17.33333333",
+      "longitude": -62.75,
+      "flag": "https://restcountries.eu/data/kna.svg"
+    },
+    {
+      "name": "Saint Lucia",
+      "code": "LC",
+      "callingCode": "1758",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "13.88333333",
+      "longitude": -60.96666666,
+      "flag": "https://restcountries.eu/data/lca.svg"
+    },
+    {
+      "name": "Saint Martin (French part)",
+      "code": "MF",
+      "callingCode": "590",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "18.08333333",
+      "longitude": -63.95,
+      "flag": "https://restcountries.eu/data/maf.svg"
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "code": "PM",
+      "callingCode": "508",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "latitude": "46.83333333",
+      "longitude": -56.33333333,
+      "flag": "https://restcountries.eu/data/spm.svg"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "code": "VC",
+      "callingCode": "1784",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "13.25",
+      "longitude": -61.2,
+      "flag": "https://restcountries.eu/data/vct.svg"
+    },
+    {
+      "name": "Samoa",
+      "code": "WS",
+      "callingCode": "685",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "latitude": "-13.58333333",
+      "longitude": -172.33333333,
+      "flag": "https://restcountries.eu/data/wsm.svg"
+    },
+    {
+      "name": "San Marino",
+      "code": "SM",
+      "callingCode": "378",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "43.76666666",
+      "longitude": 12.41666666,
+      "flag": "https://restcountries.eu/data/smr.svg"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "code": "ST",
+      "callingCode": "239",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "latitude": "1",
+      "longitude": 7,
+      "flag": "https://restcountries.eu/data/stp.svg"
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "callingCode": "966",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "25",
+      "longitude": 45,
+      "flag": "https://restcountries.eu/data/sau.svg"
+    },
+    {
+      "name": "Senegal",
+      "code": "SN",
+      "callingCode": "221",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "14",
+      "longitude": -14,
+      "flag": "https://restcountries.eu/data/sen.svg"
+    },
+    {
+      "name": "Serbia",
+      "code": "RS",
+      "callingCode": "381",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "44",
+      "longitude": 21,
+      "flag": "https://restcountries.eu/data/srb.svg"
+    },
+    {
+      "name": "Seychelles",
+      "code": "SC",
+      "callingCode": "248",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "-4.58333333",
+      "longitude": 55.66666666,
+      "flag": "https://restcountries.eu/data/syc.svg"
+    },
+    {
+      "name": "Sierra Leone",
+      "code": "SL",
+      "callingCode": "232",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "8.5",
+      "longitude": -11.5,
+      "flag": "https://restcountries.eu/data/sle.svg"
+    },
+    {
+      "name": "Singapore",
+      "code": "SG",
+      "callingCode": "065",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "latitude": "1.36666666",
+      "longitude": 103.8,
+      "flag": "https://restcountries.eu/data/sgp.svg"
+    },
+    {
+      "name": "Sint Maarten (Dutch part)",
+      "code": "SX",
+      "callingCode": "1721",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "18.033333",
+      "longitude": -63.05,
+      "flag": "https://restcountries.eu/data/sxm.svg"
+    },
+    {
+      "name": "Slovakia",
+      "code": "SK",
+      "callingCode": "421",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "latitude": "48.66666666",
+      "longitude": 19.5,
+      "flag": "https://restcountries.eu/data/svk.svg"
+    },
+    {
+      "name": "Slovenia",
+      "code": "SI",
+      "callingCode": "386",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "46.11666666",
+      "longitude": 14.81666666,
+      "flag": "https://restcountries.eu/data/svn.svg"
+    },
+    {
+      "name": "Solomon Islands",
+      "code": "SB",
+      "callingCode": "677",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "latitude": "-8",
+      "longitude": 159,
+      "flag": "https://restcountries.eu/data/slb.svg"
+    },
+    {
+      "name": "Somalia",
+      "code": "SO",
+      "callingCode": "252",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "10",
+      "longitude": 49,
+      "flag": "https://restcountries.eu/data/som.svg"
+    },
+    {
+      "name": "South Africa",
+      "code": "ZA",
+      "callingCode": "027",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "latitude": "-29",
+      "longitude": 24,
+      "flag": "https://restcountries.eu/data/zaf.svg"
+    },
+    {
+      "name": "South Georgia and the South Sandwich Islands",
+      "code": "GS",
+      "callingCode": "500",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "-54.5",
+      "longitude": -37,
+      "flag": "https://restcountries.eu/data/sgs.svg"
+    },
+    {
+      "name": "South Sudan",
+      "code": "SS",
+      "callingCode": "211",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "latitude": "7",
+      "longitude": 30,
+      "flag": "https://restcountries.eu/data/ssd.svg"
+    },
+    {
+      "name": "Spain",
+      "code": "ES",
+      "callingCode": "034",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "latitude": "40",
+      "longitude": -4,
+      "flag": "https://restcountries.eu/data/esp.svg"
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK",
+      "callingCode": "094",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "latitude": "7",
+      "longitude": 81,
+      "flag": "https://restcountries.eu/data/lka.svg"
+    },
+    {
+      "name": "Sudan",
+      "code": "SD",
+      "callingCode": "249",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "latitude": "15",
+      "longitude": 30,
+      "flag": "https://restcountries.eu/data/sdn.svg"
+    },
+    {
+      "name": "Suriname",
+      "code": "SR",
+      "callingCode": "597",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "4",
+      "longitude": -56,
+      "flag": "https://restcountries.eu/data/sur.svg"
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "code": "SJ",
+      "callingCode": "4779",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "78",
+      "longitude": 20,
+      "flag": "https://restcountries.eu/data/sjm.svg"
+    },
+    {
+      "name": "Swaziland",
+      "code": "SZ",
+      "callingCode": "268",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "latitude": "-26.5",
+      "longitude": 31.5,
+      "flag": "https://restcountries.eu/data/swz.svg"
+    },
+    {
+      "name": "Sweden",
+      "code": "SE",
+      "callingCode": "046",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "62",
+      "longitude": 15,
+      "flag": "https://restcountries.eu/data/swe.svg"
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH",
+      "callingCode": "041",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "latitude": "47",
+      "longitude": 8,
+      "flag": "https://restcountries.eu/data/che.svg"
+    },
+    {
+      "name": "Syrian Arab Republic",
+      "code": "SY",
+      "callingCode": "963",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "35",
+      "longitude": 38,
+      "flag": "https://restcountries.eu/data/syr.svg"
+    },
+    {
+      "name": "Taiwan",
+      "code": "TW",
+      "callingCode": "886",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "latitude": "23.5",
+      "longitude": 121,
+      "flag": "https://restcountries.eu/data/twn.svg"
+    },
+    {
+      "name": "Tajikistan",
+      "code": "TJ",
+      "callingCode": "992",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "latitude": "39",
+      "longitude": 71,
+      "flag": "https://restcountries.eu/data/tjk.svg"
+    },
+    {
+      "name": "Tanzania",
+      "code": " United Republic of",
+      "callingCode": "TZ",
+      "region": "255",
+      "subregion": "Africa",
+      "latitude": "Eastern Africa",
+      "longitude": -6,
+      "flag": "35"
+    },
+    {
+      "name": "Thailand",
+      "code": "TH",
+      "callingCode": "066",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "latitude": "15",
+      "longitude": 100,
+      "flag": "https://restcountries.eu/data/tha.svg"
+    },
+    {
+      "name": "Timor-Leste",
+      "code": "TL",
+      "callingCode": "670",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "latitude": "-8.83333333",
+      "longitude": 125.91666666,
+      "flag": "https://restcountries.eu/data/tls.svg"
+    },
+    {
+      "name": "Togo",
+      "code": "TG",
+      "callingCode": "228",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": "8",
+      "longitude": 1.16666666,
+      "flag": "https://restcountries.eu/data/tgo.svg"
+    },
+    {
+      "name": "Tokelau",
+      "code": "TK",
+      "callingCode": "690",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "latitude": "-9",
+      "longitude": -172,
+      "flag": "https://restcountries.eu/data/tkl.svg"
+    },
+    {
+      "name": "Tonga",
+      "code": "TO",
+      "callingCode": "676",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "latitude": "-20",
+      "longitude": -175,
+      "flag": "https://restcountries.eu/data/ton.svg"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "callingCode": "1868",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "11",
+      "longitude": -61,
+      "flag": "https://restcountries.eu/data/tto.svg"
+    },
+    {
+      "name": "Tunisia",
+      "code": "TN",
+      "callingCode": "216",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "latitude": "34",
+      "longitude": 9,
+      "flag": "https://restcountries.eu/data/tun.svg"
+    },
+    {
+      "name": "Turkey",
+      "code": "TR",
+      "callingCode": "090",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "39",
+      "longitude": 35,
+      "flag": "https://restcountries.eu/data/tur.svg"
+    },
+    {
+      "name": "Turkmenistan",
+      "code": "TM",
+      "callingCode": "993",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "latitude": "40",
+      "longitude": 60,
+      "flag": "https://restcountries.eu/data/tkm.svg"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "code": "TC",
+      "callingCode": "1649",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "21.75",
+      "longitude": -71.58333333,
+      "flag": "https://restcountries.eu/data/tca.svg"
+    },
+    {
+      "name": "Tuvalu",
+      "code": "TV",
+      "callingCode": "688",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "latitude": "-8",
+      "longitude": 178,
+      "flag": "https://restcountries.eu/data/tuv.svg"
+    },
+    {
+      "name": "Uganda",
+      "code": "UG",
+      "callingCode": "256",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "1",
+      "longitude": 32,
+      "flag": "https://restcountries.eu/data/uga.svg"
+    },
+    {
+      "name": "Ukraine",
+      "code": "UA",
+      "callingCode": "380",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "latitude": "49",
+      "longitude": 32,
+      "flag": "https://restcountries.eu/data/ukr.svg"
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "callingCode": "971",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "24",
+      "longitude": 54,
+      "flag": "https://restcountries.eu/data/are.svg"
+    },
+    {
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "code": "GB",
+      "callingCode": "044",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "latitude": "54",
+      "longitude": -2,
+      "flag": "https://restcountries.eu/data/gbr.svg"
+    },
+    {
+      "name": "United States Minor Outlying Islands",
+      "code": "UM",
+      "callingCode": "",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "latitude": "",
+      "longitude": null,
+      "flag": "https://restcountries.eu/data/umi.svg"
+    },
+    {
+      "name": "United States of America",
+      "code": "US",
+      "callingCode": "001",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "latitude": "38",
+      "longitude": -97,
+      "flag": "https://restcountries.eu/data/usa.svg"
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY",
+      "callingCode": "598",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "-33",
+      "longitude": -56,
+      "flag": "https://restcountries.eu/data/ury.svg"
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "UZ",
+      "callingCode": "998",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "latitude": "41",
+      "longitude": 64,
+      "flag": "https://restcountries.eu/data/uzb.svg"
+    },
+    {
+      "name": "Vanuatu",
+      "code": "VU",
+      "callingCode": "678",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "latitude": "-16",
+      "longitude": 167,
+      "flag": "https://restcountries.eu/data/vut.svg"
+    },
+    {
+      "name": "Venezuela (Bolivarian Republic of)",
+      "code": "VE",
+      "callingCode": "058",
+      "region": "Americas",
+      "subregion": "South America",
+      "latitude": "8",
+      "longitude": -66,
+      "flag": "https://restcountries.eu/data/ven.svg"
+    },
+    {
+      "name": "Viet Nam",
+      "code": "VN",
+      "callingCode": "084",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "latitude": "16.16666666",
+      "longitude": 107.83333333,
+      "flag": "https://restcountries.eu/data/vnm.svg"
+    },
+    {
+      "name": "Virgin Islands (British)",
+      "code": "VG",
+      "callingCode": "1284",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "18.431383",
+      "longitude": -64.62305,
+      "flag": "https://restcountries.eu/data/vgb.svg"
+    },
+    {
+      "name": "Virgin Islands (U.S.)",
+      "code": "VI",
+      "callingCode": "1 340",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": "18.34",
+      "longitude": -64.93,
+      "flag": "https://restcountries.eu/data/vir.svg"
+    },
+    {
+      "name": "Wallis and Futuna",
+      "code": "WF",
+      "callingCode": "681",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "latitude": "-13.3",
+      "longitude": -176.2,
+      "flag": "https://restcountries.eu/data/wlf.svg"
+    },
+    {
+      "name": "Western Sahara",
+      "code": "EH",
+      "callingCode": "212",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "latitude": "24.5",
+      "longitude": -13,
+      "flag": "https://restcountries.eu/data/esh.svg"
+    },
+    {
+      "name": "Yemen",
+      "code": "YE",
+      "callingCode": "967",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": "15",
+      "longitude": 48,
+      "flag": "https://restcountries.eu/data/yem.svg"
+    },
+    {
+      "name": "Zambia",
+      "code": "ZM",
+      "callingCode": "260",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "-15",
+      "longitude": 30,
+      "flag": "https://restcountries.eu/data/zmb.svg"
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "callingCode": "263",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": "-20",
+      "longitude": 30,
+      "flag": "https://restcountries.eu/data/zwe.svg"
+    }
+   ]
