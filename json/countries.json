@@ -260,16 +260,6 @@
       "flag": "https://restcountries.eu/data/bol.svg"
     },
     {
-      "name": "Bonaire",
-      "code": " Sint Eustatius and Saba",
-      "callingCode": "BQ",
-      "region": "5997",
-      "subregion": "Americas",
-      "latitude": "Caribbean",
-      "longitude": 12.15,
-      "flag": "-68.266667"
-    },
-    {
       "name": "Bosnia and Herzegovina",
       "code": "BA",
       "callingCode": "387",
