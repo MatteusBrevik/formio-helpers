@@ -5,7 +5,7 @@
       "callingCode": "093",
       "region": "Asia",
       "subregion": "Southern Asia",
-      "latitude": "33",
+      "latitude": 33,
       "longitude": 65,
       "flag": "https://restcountries.eu/data/afg.svg"
     },
@@ -15,7 +15,7 @@
       "callingCode": "358",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "60.116667",
+      "latitude": 60.116667,
       "longitude": 19.9,
       "flag": "https://restcountries.eu/data/ala.svg"
     },
@@ -25,7 +25,7 @@
       "callingCode": "355",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "41",
+      "latitude": 41,
       "longitude": 20,
       "flag": "https://restcountries.eu/data/alb.svg"
     },
@@ -35,7 +35,7 @@
       "callingCode": "213",
       "region": "Africa",
       "subregion": "Northern Africa",
-      "latitude": "28",
+      "latitude": 28,
       "longitude": 3,
       "flag": "https://restcountries.eu/data/dza.svg"
     },
@@ -45,7 +45,7 @@
       "callingCode": "1684",
       "region": "Oceania",
       "subregion": "Polynesia",
-      "latitude": "-14.33333333",
+      "latitude": -14.33333333,
       "longitude": -170,
       "flag": "https://restcountries.eu/data/asm.svg"
     },
@@ -55,7 +55,7 @@
       "callingCode": "376",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "42.5",
+      "latitude": 42.5,
       "longitude": 1.5,
       "flag": "https://restcountries.eu/data/and.svg"
     },
@@ -65,7 +65,7 @@
       "callingCode": "244",
       "region": "Africa",
       "subregion": "Middle Africa",
-      "latitude": "-12.5",
+      "latitude": -12.5,
       "longitude": 18.5,
       "flag": "https://restcountries.eu/data/ago.svg"
     },
@@ -75,7 +75,7 @@
       "callingCode": "1264",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "18.25",
+      "latitude": 18.25,
       "longitude": -63.16666666,
       "flag": "https://restcountries.eu/data/aia.svg"
     },
@@ -85,7 +85,7 @@
       "callingCode": "1268",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "17.05",
+      "latitude": 17.05,
       "longitude": -61.8,
       "flag": "https://restcountries.eu/data/atg.svg"
     },
@@ -95,7 +95,7 @@
       "callingCode": "054",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "-34",
+      "latitude": -34,
       "longitude": -64,
       "flag": "https://restcountries.eu/data/arg.svg"
     },
@@ -105,7 +105,7 @@
       "callingCode": "374",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "40",
+      "latitude": 40,
       "longitude": 45,
       "flag": "https://restcountries.eu/data/arm.svg"
     },
@@ -115,7 +115,7 @@
       "callingCode": "297",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "12.5",
+      "latitude": 12.5,
       "longitude": -69.96666666,
       "flag": "https://restcountries.eu/data/abw.svg"
     },
@@ -125,7 +125,7 @@
       "callingCode": "061",
       "region": "Oceania",
       "subregion": "Australia and New Zealand",
-      "latitude": "-27",
+      "latitude": -27,
       "longitude": 133,
       "flag": "https://restcountries.eu/data/aus.svg"
     },
@@ -135,7 +135,7 @@
       "callingCode": "043",
       "region": "Europe",
       "subregion": "Western Europe",
-      "latitude": "47.33333333",
+      "latitude": 47.33333333,
       "longitude": 13.33333333,
       "flag": "https://restcountries.eu/data/aut.svg"
     },
@@ -145,7 +145,7 @@
       "callingCode": "994",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "40.5",
+      "latitude": 40.5,
       "longitude": 47.5,
       "flag": "https://restcountries.eu/data/aze.svg"
     },
@@ -155,7 +155,7 @@
       "callingCode": "1242",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "24.25",
+      "latitude": 24.25,
       "longitude": -76,
       "flag": "https://restcountries.eu/data/bhs.svg"
     },
@@ -165,7 +165,7 @@
       "callingCode": "973",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "26",
+      "latitude": 26,
       "longitude": 50.55,
       "flag": "https://restcountries.eu/data/bhr.svg"
     },
@@ -175,7 +175,7 @@
       "callingCode": "880",
       "region": "Asia",
       "subregion": "Southern Asia",
-      "latitude": "24",
+      "latitude": 24,
       "longitude": 90,
       "flag": "https://restcountries.eu/data/bgd.svg"
     },
@@ -185,7 +185,7 @@
       "callingCode": "1246",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "13.16666666",
+      "latitude": 13.16666666,
       "longitude": -59.53333333,
       "flag": "https://restcountries.eu/data/brb.svg"
     },
@@ -195,7 +195,7 @@
       "callingCode": "375",
       "region": "Europe",
       "subregion": "Eastern Europe",
-      "latitude": "53",
+      "latitude": 53,
       "longitude": 28,
       "flag": "https://restcountries.eu/data/blr.svg"
     },
@@ -205,7 +205,7 @@
       "callingCode": "032",
       "region": "Europe",
       "subregion": "Western Europe",
-      "latitude": "50.83333333",
+      "latitude": 50.83333333,
       "longitude": 4,
       "flag": "https://restcountries.eu/data/bel.svg"
     },
@@ -215,7 +215,7 @@
       "callingCode": "501",
       "region": "Americas",
       "subregion": "Central America",
-      "latitude": "17.25",
+      "latitude": 17.25,
       "longitude": -88.75,
       "flag": "https://restcountries.eu/data/blz.svg"
     },
@@ -225,7 +225,7 @@
       "callingCode": "229",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "9.5",
+      "latitude": 9.5,
       "longitude": 2.25,
       "flag": "https://restcountries.eu/data/ben.svg"
     },
@@ -235,7 +235,7 @@
       "callingCode": "1441",
       "region": "Americas",
       "subregion": "Northern America",
-      "latitude": "32.33333333",
+      "latitude": 32.33333333,
       "longitude": -64.75,
       "flag": "https://restcountries.eu/data/bmu.svg"
     },
@@ -245,7 +245,7 @@
       "callingCode": "975",
       "region": "Asia",
       "subregion": "Southern Asia",
-      "latitude": "27.5",
+      "latitude": 27.5,
       "longitude": 90.5,
       "flag": "https://restcountries.eu/data/btn.svg"
     },
@@ -255,9 +255,19 @@
       "callingCode": "591",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "-17",
+      "latitude": -17,
       "longitude": -65,
       "flag": "https://restcountries.eu/data/bol.svg"
+    },
+    {
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "code": "BQ",
+      "callingCode": "5997",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "latitude": 12.15,
+      "longitude": -68.266667,
+      "flag": "https://restcountries.eu/data/bes.svg"
     },
     {
       "name": "Bosnia and Herzegovina",
@@ -265,7 +275,7 @@
       "callingCode": "387",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "44",
+      "latitude": 44,
       "longitude": 18,
       "flag": "https://restcountries.eu/data/bih.svg"
     },
@@ -275,7 +285,7 @@
       "callingCode": "267",
       "region": "Africa",
       "subregion": "Southern Africa",
-      "latitude": "-22",
+      "latitude": -22,
       "longitude": 24,
       "flag": "https://restcountries.eu/data/bwa.svg"
     },
@@ -285,7 +295,7 @@
       "callingCode": "",
       "region": "",
       "subregion": "",
-      "latitude": "-54.43333333",
+      "latitude": -54.43333333,
       "longitude": 3.4,
       "flag": "https://restcountries.eu/data/bvt.svg"
     },
@@ -295,7 +305,7 @@
       "callingCode": "055",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "-10",
+      "latitude": -10,
       "longitude": -55,
       "flag": "https://restcountries.eu/data/bra.svg"
     },
@@ -305,7 +315,7 @@
       "callingCode": "246",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "-6",
+      "latitude": -6,
       "longitude": 71.5,
       "flag": "https://restcountries.eu/data/iot.svg"
     },
@@ -315,7 +325,7 @@
       "callingCode": "673",
       "region": "Asia",
       "subregion": "South-Eastern Asia",
-      "latitude": "4.5",
+      "latitude": 4.5,
       "longitude": 114.66666666,
       "flag": "https://restcountries.eu/data/brn.svg"
     },
@@ -325,7 +335,7 @@
       "callingCode": "359",
       "region": "Europe",
       "subregion": "Eastern Europe",
-      "latitude": "43",
+      "latitude": 43,
       "longitude": 25,
       "flag": "https://restcountries.eu/data/bgr.svg"
     },
@@ -335,7 +345,7 @@
       "callingCode": "226",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "13",
+      "latitude": 13,
       "longitude": -2,
       "flag": "https://restcountries.eu/data/bfa.svg"
     },
@@ -345,7 +355,7 @@
       "callingCode": "257",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "-3.5",
+      "latitude": -3.5,
       "longitude": 30,
       "flag": "https://restcountries.eu/data/bdi.svg"
     },
@@ -355,7 +365,7 @@
       "callingCode": "238",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "16",
+      "latitude": 16,
       "longitude": -24,
       "flag": "https://restcountries.eu/data/cpv.svg"
     },
@@ -365,7 +375,7 @@
       "callingCode": "855",
       "region": "Asia",
       "subregion": "South-Eastern Asia",
-      "latitude": "13",
+      "latitude": 13,
       "longitude": 105,
       "flag": "https://restcountries.eu/data/khm.svg"
     },
@@ -375,7 +385,7 @@
       "callingCode": "237",
       "region": "Africa",
       "subregion": "Middle Africa",
-      "latitude": "6",
+      "latitude": 6,
       "longitude": 12,
       "flag": "https://restcountries.eu/data/cmr.svg"
     },
@@ -385,7 +395,7 @@
       "callingCode": "001",
       "region": "Americas",
       "subregion": "Northern America",
-      "latitude": "60",
+      "latitude": 60,
       "longitude": -95,
       "flag": "https://restcountries.eu/data/can.svg"
     },
@@ -395,7 +405,7 @@
       "callingCode": "1345",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "19.5",
+      "latitude": 19.5,
       "longitude": -80.5,
       "flag": "https://restcountries.eu/data/cym.svg"
     },
@@ -405,7 +415,7 @@
       "callingCode": "236",
       "region": "Africa",
       "subregion": "Middle Africa",
-      "latitude": "7",
+      "latitude": 7,
       "longitude": 21,
       "flag": "https://restcountries.eu/data/caf.svg"
     },
@@ -415,7 +425,7 @@
       "callingCode": "235",
       "region": "Africa",
       "subregion": "Middle Africa",
-      "latitude": "15",
+      "latitude": 15,
       "longitude": 19,
       "flag": "https://restcountries.eu/data/tcd.svg"
     },
@@ -425,7 +435,7 @@
       "callingCode": "056",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "-30",
+      "latitude": -30,
       "longitude": -71,
       "flag": "https://restcountries.eu/data/chl.svg"
     },
@@ -435,7 +445,7 @@
       "callingCode": "086",
       "region": "Asia",
       "subregion": "Eastern Asia",
-      "latitude": "35",
+      "latitude": 35,
       "longitude": 105,
       "flag": "https://restcountries.eu/data/chn.svg"
     },
@@ -445,7 +455,7 @@
       "callingCode": "061",
       "region": "Oceania",
       "subregion": "Australia and New Zealand",
-      "latitude": "-10.5",
+      "latitude": -10.5,
       "longitude": 105.66666666,
       "flag": "https://restcountries.eu/data/cxr.svg"
     },
@@ -455,7 +465,7 @@
       "callingCode": "061",
       "region": "Oceania",
       "subregion": "Australia and New Zealand",
-      "latitude": "-12.5",
+      "latitude": -12.5,
       "longitude": 96.83333333,
       "flag": "https://restcountries.eu/data/cck.svg"
     },
@@ -465,7 +475,7 @@
       "callingCode": "057",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "4",
+      "latitude": 4,
       "longitude": -72,
       "flag": "https://restcountries.eu/data/col.svg"
     },
@@ -475,7 +485,7 @@
       "callingCode": "269",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "-12.16666666",
+      "latitude": -12.16666666,
       "longitude": 44.25,
       "flag": "https://restcountries.eu/data/com.svg"
     },
@@ -485,7 +495,7 @@
       "callingCode": "242",
       "region": "Africa",
       "subregion": "Middle Africa",
-      "latitude": "-1",
+      "latitude": -1,
       "longitude": 15,
       "flag": "https://restcountries.eu/data/cog.svg"
     },
@@ -495,7 +505,7 @@
       "callingCode": "243",
       "region": "Africa",
       "subregion": "Middle Africa",
-      "latitude": "0",
+      "latitude": 0,
       "longitude": 25,
       "flag": "https://restcountries.eu/data/cod.svg"
     },
@@ -505,7 +515,7 @@
       "callingCode": "682",
       "region": "Oceania",
       "subregion": "Polynesia",
-      "latitude": "-21.23333333",
+      "latitude": -21.23333333,
       "longitude": -159.76666666,
       "flag": "https://restcountries.eu/data/cok.svg"
     },
@@ -515,7 +525,7 @@
       "callingCode": "506",
       "region": "Americas",
       "subregion": "Central America",
-      "latitude": "10",
+      "latitude": 10,
       "longitude": -84,
       "flag": "https://restcountries.eu/data/cri.svg"
     },
@@ -525,7 +535,7 @@
       "callingCode": "225",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "8",
+      "latitude": 8,
       "longitude": -5,
       "flag": "https://restcountries.eu/data/civ.svg"
     },
@@ -535,7 +545,7 @@
       "callingCode": "385",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "45.16666666",
+      "latitude": 45.16666666,
       "longitude": 15.5,
       "flag": "https://restcountries.eu/data/hrv.svg"
     },
@@ -545,7 +555,7 @@
       "callingCode": "053",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "21.5",
+      "latitude": 21.5,
       "longitude": -80,
       "flag": "https://restcountries.eu/data/cub.svg"
     },
@@ -555,7 +565,7 @@
       "callingCode": "599",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "12.116667",
+      "latitude": 12.116667,
       "longitude": -68.933333,
       "flag": "https://restcountries.eu/data/cuw.svg"
     },
@@ -565,7 +575,7 @@
       "callingCode": "357",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "35",
+      "latitude": 35,
       "longitude": 33,
       "flag": "https://restcountries.eu/data/cyp.svg"
     },
@@ -575,7 +585,7 @@
       "callingCode": "420",
       "region": "Europe",
       "subregion": "Eastern Europe",
-      "latitude": "49.75",
+      "latitude": 49.75,
       "longitude": 15.5,
       "flag": "https://restcountries.eu/data/cze.svg"
     },
@@ -585,7 +595,7 @@
       "callingCode": "045",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "56",
+      "latitude": 56,
       "longitude": 10,
       "flag": "https://restcountries.eu/data/dnk.svg"
     },
@@ -595,7 +605,7 @@
       "callingCode": "253",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "11.5",
+      "latitude": 11.5,
       "longitude": 43,
       "flag": "https://restcountries.eu/data/dji.svg"
     },
@@ -605,7 +615,7 @@
       "callingCode": "1767",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "15.41666666",
+      "latitude": 15.41666666,
       "longitude": -61.33333333,
       "flag": "https://restcountries.eu/data/dma.svg"
     },
@@ -615,7 +625,7 @@
       "callingCode": "1809",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "19",
+      "latitude": 19,
       "longitude": -70.66666666,
       "flag": "https://restcountries.eu/data/dom.svg"
     },
@@ -625,7 +635,7 @@
       "callingCode": "593",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "-2",
+      "latitude": -2,
       "longitude": -77.5,
       "flag": "https://restcountries.eu/data/ecu.svg"
     },
@@ -635,7 +645,7 @@
       "callingCode": "020",
       "region": "Africa",
       "subregion": "Northern Africa",
-      "latitude": "27",
+      "latitude": 27,
       "longitude": 30,
       "flag": "https://restcountries.eu/data/egy.svg"
     },
@@ -645,7 +655,7 @@
       "callingCode": "503",
       "region": "Americas",
       "subregion": "Central America",
-      "latitude": "13.83333333",
+      "latitude": 13.83333333,
       "longitude": -88.91666666,
       "flag": "https://restcountries.eu/data/slv.svg"
     },
@@ -655,7 +665,7 @@
       "callingCode": "240",
       "region": "Africa",
       "subregion": "Middle Africa",
-      "latitude": "2",
+      "latitude": 2,
       "longitude": 10,
       "flag": "https://restcountries.eu/data/gnq.svg"
     },
@@ -665,7 +675,7 @@
       "callingCode": "291",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "15",
+      "latitude": 15,
       "longitude": 39,
       "flag": "https://restcountries.eu/data/eri.svg"
     },
@@ -675,7 +685,7 @@
       "callingCode": "372",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "59",
+      "latitude": 59,
       "longitude": 26,
       "flag": "https://restcountries.eu/data/est.svg"
     },
@@ -685,7 +695,7 @@
       "callingCode": "251",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "8",
+      "latitude": 8,
       "longitude": 38,
       "flag": "https://restcountries.eu/data/eth.svg"
     },
@@ -695,7 +705,7 @@
       "callingCode": "500",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "-51.75",
+      "latitude": -51.75,
       "longitude": -59,
       "flag": "https://restcountries.eu/data/flk.svg"
     },
@@ -705,7 +715,7 @@
       "callingCode": "298",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "62",
+      "latitude": 62,
       "longitude": -7,
       "flag": "https://restcountries.eu/data/fro.svg"
     },
@@ -715,7 +725,7 @@
       "callingCode": "679",
       "region": "Oceania",
       "subregion": "Melanesia",
-      "latitude": "-18",
+      "latitude": -18,
       "longitude": 175,
       "flag": "https://restcountries.eu/data/fji.svg"
     },
@@ -725,7 +735,7 @@
       "callingCode": "358",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "64",
+      "latitude": 64,
       "longitude": 26,
       "flag": "https://restcountries.eu/data/fin.svg"
     },
@@ -735,7 +745,7 @@
       "callingCode": "033",
       "region": "Europe",
       "subregion": "Western Europe",
-      "latitude": "46",
+      "latitude": 46,
       "longitude": 2,
       "flag": "https://restcountries.eu/data/fra.svg"
     },
@@ -745,7 +755,7 @@
       "callingCode": "594",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "4",
+      "latitude": 4,
       "longitude": -53,
       "flag": "https://restcountries.eu/data/guf.svg"
     },
@@ -755,7 +765,7 @@
       "callingCode": "689",
       "region": "Oceania",
       "subregion": "Polynesia",
-      "latitude": "-15",
+      "latitude": -15,
       "longitude": -140,
       "flag": "https://restcountries.eu/data/pyf.svg"
     },
@@ -765,7 +775,7 @@
       "callingCode": "",
       "region": "Africa",
       "subregion": "Southern Africa",
-      "latitude": "-49.25",
+      "latitude": -49.25,
       "longitude": 69.167,
       "flag": "https://restcountries.eu/data/atf.svg"
     },
@@ -775,7 +785,7 @@
       "callingCode": "241",
       "region": "Africa",
       "subregion": "Middle Africa",
-      "latitude": "-1",
+      "latitude": -1,
       "longitude": 11.75,
       "flag": "https://restcountries.eu/data/gab.svg"
     },
@@ -785,7 +795,7 @@
       "callingCode": "220",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "13.46666666",
+      "latitude": 13.46666666,
       "longitude": -16.56666666,
       "flag": "https://restcountries.eu/data/gmb.svg"
     },
@@ -795,7 +805,7 @@
       "callingCode": "995",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "42",
+      "latitude": 42,
       "longitude": 43.5,
       "flag": "https://restcountries.eu/data/geo.svg"
     },
@@ -805,7 +815,7 @@
       "callingCode": "049",
       "region": "Europe",
       "subregion": "Western Europe",
-      "latitude": "51",
+      "latitude": 51,
       "longitude": 9,
       "flag": "https://restcountries.eu/data/deu.svg"
     },
@@ -815,7 +825,7 @@
       "callingCode": "233",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "8",
+      "latitude": 8,
       "longitude": -2,
       "flag": "https://restcountries.eu/data/gha.svg"
     },
@@ -825,7 +835,7 @@
       "callingCode": "350",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "36.13333333",
+      "latitude": 36.13333333,
       "longitude": -5.35,
       "flag": "https://restcountries.eu/data/gib.svg"
     },
@@ -835,7 +845,7 @@
       "callingCode": "030",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "39",
+      "latitude": 39,
       "longitude": 22,
       "flag": "https://restcountries.eu/data/grc.svg"
     },
@@ -845,7 +855,7 @@
       "callingCode": "299",
       "region": "Americas",
       "subregion": "Northern America",
-      "latitude": "72",
+      "latitude": 72,
       "longitude": -40,
       "flag": "https://restcountries.eu/data/grl.svg"
     },
@@ -855,7 +865,7 @@
       "callingCode": "1473",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "12.11666666",
+      "latitude": 12.11666666,
       "longitude": -61.66666666,
       "flag": "https://restcountries.eu/data/grd.svg"
     },
@@ -865,7 +875,7 @@
       "callingCode": "590",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "16.25",
+      "latitude": 16.25,
       "longitude": -61.583333,
       "flag": "https://restcountries.eu/data/glp.svg"
     },
@@ -875,7 +885,7 @@
       "callingCode": "1671",
       "region": "Oceania",
       "subregion": "Micronesia",
-      "latitude": "13.46666666",
+      "latitude": 13.46666666,
       "longitude": 144.78333333,
       "flag": "https://restcountries.eu/data/gum.svg"
     },
@@ -885,7 +895,7 @@
       "callingCode": "502",
       "region": "Americas",
       "subregion": "Central America",
-      "latitude": "15.5",
+      "latitude": 15.5,
       "longitude": -90.25,
       "flag": "https://restcountries.eu/data/gtm.svg"
     },
@@ -895,7 +905,7 @@
       "callingCode": "044",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "49.46666666",
+      "latitude": 49.46666666,
       "longitude": -2.58333333,
       "flag": "https://restcountries.eu/data/ggy.svg"
     },
@@ -905,7 +915,7 @@
       "callingCode": "224",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "11",
+      "latitude": 11,
       "longitude": -10,
       "flag": "https://restcountries.eu/data/gin.svg"
     },
@@ -915,7 +925,7 @@
       "callingCode": "245",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "12",
+      "latitude": 12,
       "longitude": -15,
       "flag": "https://restcountries.eu/data/gnb.svg"
     },
@@ -925,7 +935,7 @@
       "callingCode": "592",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "5",
+      "latitude": 5,
       "longitude": -59,
       "flag": "https://restcountries.eu/data/guy.svg"
     },
@@ -935,7 +945,7 @@
       "callingCode": "509",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "19",
+      "latitude": 19,
       "longitude": -72.41666666,
       "flag": "https://restcountries.eu/data/hti.svg"
     },
@@ -945,7 +955,7 @@
       "callingCode": "",
       "region": "",
       "subregion": "",
-      "latitude": "-53.1",
+      "latitude": -53.1,
       "longitude": 72.51666666,
       "flag": "https://restcountries.eu/data/hmd.svg"
     },
@@ -955,7 +965,7 @@
       "callingCode": "379",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "41.9",
+      "latitude": 41.9,
       "longitude": 12.45,
       "flag": "https://restcountries.eu/data/vat.svg"
     },
@@ -965,7 +975,7 @@
       "callingCode": "504",
       "region": "Americas",
       "subregion": "Central America",
-      "latitude": "15",
+      "latitude": 15,
       "longitude": -86.5,
       "flag": "https://restcountries.eu/data/hnd.svg"
     },
@@ -975,7 +985,7 @@
       "callingCode": "852",
       "region": "Asia",
       "subregion": "Eastern Asia",
-      "latitude": "22.25",
+      "latitude": 22.25,
       "longitude": 114.16666666,
       "flag": "https://restcountries.eu/data/hkg.svg"
     },
@@ -985,7 +995,7 @@
       "callingCode": "036",
       "region": "Europe",
       "subregion": "Eastern Europe",
-      "latitude": "47",
+      "latitude": 47,
       "longitude": 20,
       "flag": "https://restcountries.eu/data/hun.svg"
     },
@@ -995,7 +1005,7 @@
       "callingCode": "354",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "65",
+      "latitude": 65,
       "longitude": -18,
       "flag": "https://restcountries.eu/data/isl.svg"
     },
@@ -1005,7 +1015,7 @@
       "callingCode": "091",
       "region": "Asia",
       "subregion": "Southern Asia",
-      "latitude": "20",
+      "latitude": 20,
       "longitude": 77,
       "flag": "https://restcountries.eu/data/ind.svg"
     },
@@ -1015,7 +1025,7 @@
       "callingCode": "062",
       "region": "Asia",
       "subregion": "South-Eastern Asia",
-      "latitude": "-5",
+      "latitude": -5,
       "longitude": 120,
       "flag": "https://restcountries.eu/data/idn.svg"
     },
@@ -1025,7 +1035,7 @@
       "callingCode": "098",
       "region": "Asia",
       "subregion": "Southern Asia",
-      "latitude": "32",
+      "latitude": 32,
       "longitude": 53,
       "flag": "https://restcountries.eu/data/irn.svg"
     },
@@ -1035,7 +1045,7 @@
       "callingCode": "964",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "33",
+      "latitude": 33,
       "longitude": 44,
       "flag": "https://restcountries.eu/data/irq.svg"
     },
@@ -1045,7 +1055,7 @@
       "callingCode": "353",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "53",
+      "latitude": 53,
       "longitude": -8,
       "flag": "https://restcountries.eu/data/irl.svg"
     },
@@ -1055,7 +1065,7 @@
       "callingCode": "044",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "54.25",
+      "latitude": 54.25,
       "longitude": -4.5,
       "flag": "https://restcountries.eu/data/imn.svg"
     },
@@ -1065,7 +1075,7 @@
       "callingCode": "972",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "31.5",
+      "latitude": 31.5,
       "longitude": 34.75,
       "flag": "https://restcountries.eu/data/isr.svg"
     },
@@ -1075,7 +1085,7 @@
       "callingCode": "039",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "42.83333333",
+      "latitude": 42.83333333,
       "longitude": 12.83333333,
       "flag": "https://restcountries.eu/data/ita.svg"
     },
@@ -1085,7 +1095,7 @@
       "callingCode": "1876",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "18.25",
+      "latitude": 18.25,
       "longitude": -77.5,
       "flag": "https://restcountries.eu/data/jam.svg"
     },
@@ -1095,7 +1105,7 @@
       "callingCode": "081",
       "region": "Asia",
       "subregion": "Eastern Asia",
-      "latitude": "36",
+      "latitude": 36,
       "longitude": 138,
       "flag": "https://restcountries.eu/data/jpn.svg"
     },
@@ -1105,7 +1115,7 @@
       "callingCode": "044",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "49.25",
+      "latitude": 49.25,
       "longitude": -2.16666666,
       "flag": "https://restcountries.eu/data/jey.svg"
     },
@@ -1115,7 +1125,7 @@
       "callingCode": "962",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "31",
+      "latitude": 31,
       "longitude": 36,
       "flag": "https://restcountries.eu/data/jor.svg"
     },
@@ -1125,7 +1135,7 @@
       "callingCode": "076",
       "region": "Asia",
       "subregion": "Central Asia",
-      "latitude": "48",
+      "latitude": 48,
       "longitude": 68,
       "flag": "https://restcountries.eu/data/kaz.svg"
     },
@@ -1135,7 +1145,7 @@
       "callingCode": "254",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "1",
+      "latitude": 1,
       "longitude": 38,
       "flag": "https://restcountries.eu/data/ken.svg"
     },
@@ -1145,7 +1155,7 @@
       "callingCode": "686",
       "region": "Oceania",
       "subregion": "Micronesia",
-      "latitude": "1.41666666",
+      "latitude": 1.41666666,
       "longitude": 173,
       "flag": "https://restcountries.eu/data/kir.svg"
     },
@@ -1155,7 +1165,7 @@
       "callingCode": "850",
       "region": "Asia",
       "subregion": "Eastern Asia",
-      "latitude": "40",
+      "latitude": 40,
       "longitude": 127,
       "flag": "https://restcountries.eu/data/prk.svg"
     },
@@ -1165,7 +1175,7 @@
       "callingCode": "082",
       "region": "Asia",
       "subregion": "Eastern Asia",
-      "latitude": "37",
+      "latitude": 37,
       "longitude": 127.5,
       "flag": "https://restcountries.eu/data/kor.svg"
     },
@@ -1175,7 +1185,7 @@
       "callingCode": "965",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "29.5",
+      "latitude": 29.5,
       "longitude": 45.75,
       "flag": "https://restcountries.eu/data/kwt.svg"
     },
@@ -1185,7 +1195,7 @@
       "callingCode": "996",
       "region": "Asia",
       "subregion": "Central Asia",
-      "latitude": "41",
+      "latitude": 41,
       "longitude": 75,
       "flag": "https://restcountries.eu/data/kgz.svg"
     },
@@ -1195,7 +1205,7 @@
       "callingCode": "856",
       "region": "Asia",
       "subregion": "South-Eastern Asia",
-      "latitude": "18",
+      "latitude": 18,
       "longitude": 105,
       "flag": "https://restcountries.eu/data/lao.svg"
     },
@@ -1205,7 +1215,7 @@
       "callingCode": "371",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "57",
+      "latitude": 57,
       "longitude": 25,
       "flag": "https://restcountries.eu/data/lva.svg"
     },
@@ -1215,7 +1225,7 @@
       "callingCode": "961",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "33.83333333",
+      "latitude": 33.83333333,
       "longitude": 35.83333333,
       "flag": "https://restcountries.eu/data/lbn.svg"
     },
@@ -1225,7 +1235,7 @@
       "callingCode": "266",
       "region": "Africa",
       "subregion": "Southern Africa",
-      "latitude": "-29.5",
+      "latitude": -29.5,
       "longitude": 28.5,
       "flag": "https://restcountries.eu/data/lso.svg"
     },
@@ -1235,7 +1245,7 @@
       "callingCode": "231",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "6.5",
+      "latitude": 6.5,
       "longitude": -9.5,
       "flag": "https://restcountries.eu/data/lbr.svg"
     },
@@ -1245,7 +1255,7 @@
       "callingCode": "218",
       "region": "Africa",
       "subregion": "Northern Africa",
-      "latitude": "25",
+      "latitude": 25,
       "longitude": 17,
       "flag": "https://restcountries.eu/data/lby.svg"
     },
@@ -1255,7 +1265,7 @@
       "callingCode": "423",
       "region": "Europe",
       "subregion": "Western Europe",
-      "latitude": "47.26666666",
+      "latitude": 47.26666666,
       "longitude": 9.53333333,
       "flag": "https://restcountries.eu/data/lie.svg"
     },
@@ -1265,7 +1275,7 @@
       "callingCode": "370",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "56",
+      "latitude": 56,
       "longitude": 24,
       "flag": "https://restcountries.eu/data/ltu.svg"
     },
@@ -1275,7 +1285,7 @@
       "callingCode": "352",
       "region": "Europe",
       "subregion": "Western Europe",
-      "latitude": "49.75",
+      "latitude": 49.75,
       "longitude": 6.16666666,
       "flag": "https://restcountries.eu/data/lux.svg"
     },
@@ -1285,7 +1295,7 @@
       "callingCode": "853",
       "region": "Asia",
       "subregion": "Eastern Asia",
-      "latitude": "22.16666666",
+      "latitude": 22.16666666,
       "longitude": 113.55,
       "flag": "https://restcountries.eu/data/mac.svg"
     },
@@ -1295,7 +1305,7 @@
       "callingCode": "389",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "41.83333333",
+      "latitude": 41.83333333,
       "longitude": 22,
       "flag": "https://restcountries.eu/data/mkd.svg"
     },
@@ -1305,7 +1315,7 @@
       "callingCode": "261",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "-20",
+      "latitude": -20,
       "longitude": 47,
       "flag": "https://restcountries.eu/data/mdg.svg"
     },
@@ -1315,7 +1325,7 @@
       "callingCode": "265",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "-13.5",
+      "latitude": -13.5,
       "longitude": 34,
       "flag": "https://restcountries.eu/data/mwi.svg"
     },
@@ -1325,7 +1335,7 @@
       "callingCode": "060",
       "region": "Asia",
       "subregion": "South-Eastern Asia",
-      "latitude": "2.5",
+      "latitude": 2.5,
       "longitude": 112.5,
       "flag": "https://restcountries.eu/data/mys.svg"
     },
@@ -1335,7 +1345,7 @@
       "callingCode": "960",
       "region": "Asia",
       "subregion": "Southern Asia",
-      "latitude": "3.25",
+      "latitude": 3.25,
       "longitude": 73,
       "flag": "https://restcountries.eu/data/mdv.svg"
     },
@@ -1345,7 +1355,7 @@
       "callingCode": "223",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "17",
+      "latitude": 17,
       "longitude": -4,
       "flag": "https://restcountries.eu/data/mli.svg"
     },
@@ -1355,7 +1365,7 @@
       "callingCode": "356",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "35.83333333",
+      "latitude": 35.83333333,
       "longitude": 14.58333333,
       "flag": "https://restcountries.eu/data/mlt.svg"
     },
@@ -1365,7 +1375,7 @@
       "callingCode": "692",
       "region": "Oceania",
       "subregion": "Micronesia",
-      "latitude": "9",
+      "latitude": 9,
       "longitude": 168,
       "flag": "https://restcountries.eu/data/mhl.svg"
     },
@@ -1375,7 +1385,7 @@
       "callingCode": "596",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "14.666667",
+      "latitude": 14.666667,
       "longitude": -61,
       "flag": "https://restcountries.eu/data/mtq.svg"
     },
@@ -1385,7 +1395,7 @@
       "callingCode": "222",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "20",
+      "latitude": 20,
       "longitude": -12,
       "flag": "https://restcountries.eu/data/mrt.svg"
     },
@@ -1395,7 +1405,7 @@
       "callingCode": "230",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "-20.28333333",
+      "latitude": -20.28333333,
       "longitude": 57.55,
       "flag": "https://restcountries.eu/data/mus.svg"
     },
@@ -1405,7 +1415,7 @@
       "callingCode": "262",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "-12.83333333",
+      "latitude": -12.83333333,
       "longitude": 45.16666666,
       "flag": "https://restcountries.eu/data/myt.svg"
     },
@@ -1415,7 +1425,7 @@
       "callingCode": "052",
       "region": "Americas",
       "subregion": "Central America",
-      "latitude": "23",
+      "latitude": 23,
       "longitude": -102,
       "flag": "https://restcountries.eu/data/mex.svg"
     },
@@ -1425,7 +1435,7 @@
       "callingCode": "691",
       "region": "Oceania",
       "subregion": "Micronesia",
-      "latitude": "6.91666666",
+      "latitude": 6.91666666,
       "longitude": 158.25,
       "flag": "https://restcountries.eu/data/fsm.svg"
     },
@@ -1435,7 +1445,7 @@
       "callingCode": "373",
       "region": "Europe",
       "subregion": "Eastern Europe",
-      "latitude": "47",
+      "latitude": 47,
       "longitude": 29,
       "flag": "https://restcountries.eu/data/mda.svg"
     },
@@ -1445,7 +1455,7 @@
       "callingCode": "377",
       "region": "Europe",
       "subregion": "Western Europe",
-      "latitude": "43.73333333",
+      "latitude": 43.73333333,
       "longitude": 7.4,
       "flag": "https://restcountries.eu/data/mco.svg"
     },
@@ -1455,7 +1465,7 @@
       "callingCode": "976",
       "region": "Asia",
       "subregion": "Eastern Asia",
-      "latitude": "46",
+      "latitude": 46,
       "longitude": 105,
       "flag": "https://restcountries.eu/data/mng.svg"
     },
@@ -1465,7 +1475,7 @@
       "callingCode": "382",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "42.5",
+      "latitude": 42.5,
       "longitude": 19.3,
       "flag": "https://restcountries.eu/data/mne.svg"
     },
@@ -1475,7 +1485,7 @@
       "callingCode": "1664",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "16.75",
+      "latitude": 16.75,
       "longitude": -62.2,
       "flag": "https://restcountries.eu/data/msr.svg"
     },
@@ -1485,7 +1495,7 @@
       "callingCode": "212",
       "region": "Africa",
       "subregion": "Northern Africa",
-      "latitude": "32",
+      "latitude": 32,
       "longitude": -5,
       "flag": "https://restcountries.eu/data/mar.svg"
     },
@@ -1495,7 +1505,7 @@
       "callingCode": "258",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "-18.25",
+      "latitude": -18.25,
       "longitude": 35,
       "flag": "https://restcountries.eu/data/moz.svg"
     },
@@ -1505,7 +1515,7 @@
       "callingCode": "095",
       "region": "Asia",
       "subregion": "South-Eastern Asia",
-      "latitude": "22",
+      "latitude": 22,
       "longitude": 98,
       "flag": "https://restcountries.eu/data/mmr.svg"
     },
@@ -1515,7 +1525,7 @@
       "callingCode": "264",
       "region": "Africa",
       "subregion": "Southern Africa",
-      "latitude": "-22",
+      "latitude": -22,
       "longitude": 17,
       "flag": "https://restcountries.eu/data/nam.svg"
     },
@@ -1525,7 +1535,7 @@
       "callingCode": "674",
       "region": "Oceania",
       "subregion": "Micronesia",
-      "latitude": "-0.53333333",
+      "latitude": -0.53333333,
       "longitude": 166.91666666,
       "flag": "https://restcountries.eu/data/nru.svg"
     },
@@ -1535,7 +1545,7 @@
       "callingCode": "977",
       "region": "Asia",
       "subregion": "Southern Asia",
-      "latitude": "28",
+      "latitude": 28,
       "longitude": 84,
       "flag": "https://restcountries.eu/data/npl.svg"
     },
@@ -1545,7 +1555,7 @@
       "callingCode": "031",
       "region": "Europe",
       "subregion": "Western Europe",
-      "latitude": "52.5",
+      "latitude": 52.5,
       "longitude": 5.75,
       "flag": "https://restcountries.eu/data/nld.svg"
     },
@@ -1555,7 +1565,7 @@
       "callingCode": "687",
       "region": "Oceania",
       "subregion": "Melanesia",
-      "latitude": "-21.5",
+      "latitude": -21.5,
       "longitude": 165.5,
       "flag": "https://restcountries.eu/data/ncl.svg"
     },
@@ -1565,7 +1575,7 @@
       "callingCode": "064",
       "region": "Oceania",
       "subregion": "Australia and New Zealand",
-      "latitude": "-41",
+      "latitude": -41,
       "longitude": 174,
       "flag": "https://restcountries.eu/data/nzl.svg"
     },
@@ -1575,7 +1585,7 @@
       "callingCode": "505",
       "region": "Americas",
       "subregion": "Central America",
-      "latitude": "13",
+      "latitude": 13,
       "longitude": -85,
       "flag": "https://restcountries.eu/data/nic.svg"
     },
@@ -1585,7 +1595,7 @@
       "callingCode": "227",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "16",
+      "latitude": 16,
       "longitude": 8,
       "flag": "https://restcountries.eu/data/ner.svg"
     },
@@ -1595,7 +1605,7 @@
       "callingCode": "234",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "10",
+      "latitude": 10,
       "longitude": 8,
       "flag": "https://restcountries.eu/data/nga.svg"
     },
@@ -1605,7 +1615,7 @@
       "callingCode": "683",
       "region": "Oceania",
       "subregion": "Polynesia",
-      "latitude": "-19.03333333",
+      "latitude": -19.03333333,
       "longitude": -169.86666666,
       "flag": "https://restcountries.eu/data/niu.svg"
     },
@@ -1615,7 +1625,7 @@
       "callingCode": "672",
       "region": "Oceania",
       "subregion": "Australia and New Zealand",
-      "latitude": "-29.03333333",
+      "latitude": -29.03333333,
       "longitude": 167.95,
       "flag": "https://restcountries.eu/data/nfk.svg"
     },
@@ -1625,7 +1635,7 @@
       "callingCode": "1670",
       "region": "Oceania",
       "subregion": "Micronesia",
-      "latitude": "15.2",
+      "latitude": 15.2,
       "longitude": 145.75,
       "flag": "https://restcountries.eu/data/mnp.svg"
     },
@@ -1635,7 +1645,7 @@
       "callingCode": "047",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "62",
+      "latitude": 62,
       "longitude": 10,
       "flag": "https://restcountries.eu/data/nor.svg"
     },
@@ -1645,7 +1655,7 @@
       "callingCode": "968",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "21",
+      "latitude": 21,
       "longitude": 57,
       "flag": "https://restcountries.eu/data/omn.svg"
     },
@@ -1655,7 +1665,7 @@
       "callingCode": "092",
       "region": "Asia",
       "subregion": "Southern Asia",
-      "latitude": "30",
+      "latitude": 30,
       "longitude": 70,
       "flag": "https://restcountries.eu/data/pak.svg"
     },
@@ -1665,19 +1675,19 @@
       "callingCode": "680",
       "region": "Oceania",
       "subregion": "Micronesia",
-      "latitude": "7.5",
+      "latitude": 7.5,
       "longitude": 134.5,
       "flag": "https://restcountries.eu/data/plw.svg"
     },
     {
-      "name": "Palestine",
-      "code": " State of",
-      "callingCode": "PS",
-      "region": "970",
-      "subregion": "Asia",
-      "latitude": "Western Asia",
-      "longitude": 31.9,
-      "flag": "35.2"
+      "name": "Palestine, State of",
+      "code": "PS",
+      "callingCode": "970",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "latitude": 31.9,
+      "longitude": 35.2,
+      "flag": "https://restcountries.eu/data/pse.svg"
     },
     {
       "name": "Panama",
@@ -1685,7 +1695,7 @@
       "callingCode": "507",
       "region": "Americas",
       "subregion": "Central America",
-      "latitude": "9",
+      "latitude": 9,
       "longitude": -80,
       "flag": "https://restcountries.eu/data/pan.svg"
     },
@@ -1695,7 +1705,7 @@
       "callingCode": "675",
       "region": "Oceania",
       "subregion": "Melanesia",
-      "latitude": "-6",
+      "latitude": -6,
       "longitude": 147,
       "flag": "https://restcountries.eu/data/png.svg"
     },
@@ -1705,7 +1715,7 @@
       "callingCode": "595",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "-23",
+      "latitude": -23,
       "longitude": -58,
       "flag": "https://restcountries.eu/data/pry.svg"
     },
@@ -1715,7 +1725,7 @@
       "callingCode": "051",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "-10",
+      "latitude": -10,
       "longitude": -76,
       "flag": "https://restcountries.eu/data/per.svg"
     },
@@ -1725,7 +1735,7 @@
       "callingCode": "063",
       "region": "Asia",
       "subregion": "South-Eastern Asia",
-      "latitude": "13",
+      "latitude": 13,
       "longitude": 122,
       "flag": "https://restcountries.eu/data/phl.svg"
     },
@@ -1735,7 +1745,7 @@
       "callingCode": "064",
       "region": "Oceania",
       "subregion": "Polynesia",
-      "latitude": "-25.06666666",
+      "latitude": -25.06666666,
       "longitude": -130.1,
       "flag": "https://restcountries.eu/data/pcn.svg"
     },
@@ -1745,7 +1755,7 @@
       "callingCode": "048",
       "region": "Europe",
       "subregion": "Eastern Europe",
-      "latitude": "52",
+      "latitude": 52,
       "longitude": 20,
       "flag": "https://restcountries.eu/data/pol.svg"
     },
@@ -1755,7 +1765,7 @@
       "callingCode": "351",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "39.5",
+      "latitude": 39.5,
       "longitude": -8,
       "flag": "https://restcountries.eu/data/prt.svg"
     },
@@ -1765,7 +1775,7 @@
       "callingCode": "1787",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "18.25",
+      "latitude": 18.25,
       "longitude": -66.5,
       "flag": "https://restcountries.eu/data/pri.svg"
     },
@@ -1775,7 +1785,7 @@
       "callingCode": "974",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "25.5",
+      "latitude": 25.5,
       "longitude": 51.25,
       "flag": "https://restcountries.eu/data/qat.svg"
     },
@@ -1785,7 +1795,7 @@
       "callingCode": "383",
       "region": "Europe",
       "subregion": "Eastern Europe",
-      "latitude": "42.666667",
+      "latitude": 42.666667,
       "longitude": 21.166667,
       "flag": "https://restcountries.eu/data/kos.svg"
     },
@@ -1795,7 +1805,7 @@
       "callingCode": "262",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "-21.15",
+      "latitude": -21.15,
       "longitude": 55.5,
       "flag": "https://restcountries.eu/data/reu.svg"
     },
@@ -1805,7 +1815,7 @@
       "callingCode": "040",
       "region": "Europe",
       "subregion": "Eastern Europe",
-      "latitude": "46",
+      "latitude": 46,
       "longitude": 25,
       "flag": "https://restcountries.eu/data/rou.svg"
     },
@@ -1815,7 +1825,7 @@
       "callingCode": "007",
       "region": "Europe",
       "subregion": "Eastern Europe",
-      "latitude": "60",
+      "latitude": 60,
       "longitude": 100,
       "flag": "https://restcountries.eu/data/rus.svg"
     },
@@ -1825,7 +1835,7 @@
       "callingCode": "250",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "-2",
+      "latitude": -2,
       "longitude": 30,
       "flag": "https://restcountries.eu/data/rwa.svg"
     },
@@ -1835,19 +1845,19 @@
       "callingCode": "590",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "18.5",
+      "latitude": 18.5,
       "longitude": -63.41666666,
       "flag": "https://restcountries.eu/data/blm.svg"
     },
     {
-      "name": "Saint Helena",
-      "code": " Ascension and Tristan da Cunha",
-      "callingCode": "SH",
-      "region": "290",
-      "subregion": "Africa",
-      "latitude": "Western Africa",
-      "longitude": -15.95,
-      "flag": "-5.7"
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "code": "SH",
+      "callingCode": "290",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "latitude": -15.95,
+      "longitude": -5.7,
+      "flag": "https://restcountries.eu/data/shn.svg"
     },
     {
       "name": "Saint Kitts and Nevis",
@@ -1855,7 +1865,7 @@
       "callingCode": "1869",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "17.33333333",
+      "latitude": 17.33333333,
       "longitude": -62.75,
       "flag": "https://restcountries.eu/data/kna.svg"
     },
@@ -1865,7 +1875,7 @@
       "callingCode": "1758",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "13.88333333",
+      "latitude": 13.88333333,
       "longitude": -60.96666666,
       "flag": "https://restcountries.eu/data/lca.svg"
     },
@@ -1875,7 +1885,7 @@
       "callingCode": "590",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "18.08333333",
+      "latitude": 18.08333333,
       "longitude": -63.95,
       "flag": "https://restcountries.eu/data/maf.svg"
     },
@@ -1885,7 +1895,7 @@
       "callingCode": "508",
       "region": "Americas",
       "subregion": "Northern America",
-      "latitude": "46.83333333",
+      "latitude": 46.83333333,
       "longitude": -56.33333333,
       "flag": "https://restcountries.eu/data/spm.svg"
     },
@@ -1895,7 +1905,7 @@
       "callingCode": "1784",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "13.25",
+      "latitude": 13.25,
       "longitude": -61.2,
       "flag": "https://restcountries.eu/data/vct.svg"
     },
@@ -1905,7 +1915,7 @@
       "callingCode": "685",
       "region": "Oceania",
       "subregion": "Polynesia",
-      "latitude": "-13.58333333",
+      "latitude": -13.58333333,
       "longitude": -172.33333333,
       "flag": "https://restcountries.eu/data/wsm.svg"
     },
@@ -1915,7 +1925,7 @@
       "callingCode": "378",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "43.76666666",
+      "latitude": 43.76666666,
       "longitude": 12.41666666,
       "flag": "https://restcountries.eu/data/smr.svg"
     },
@@ -1925,7 +1935,7 @@
       "callingCode": "239",
       "region": "Africa",
       "subregion": "Middle Africa",
-      "latitude": "1",
+      "latitude": 1,
       "longitude": 7,
       "flag": "https://restcountries.eu/data/stp.svg"
     },
@@ -1935,7 +1945,7 @@
       "callingCode": "966",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "25",
+      "latitude": 25,
       "longitude": 45,
       "flag": "https://restcountries.eu/data/sau.svg"
     },
@@ -1945,7 +1955,7 @@
       "callingCode": "221",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "14",
+      "latitude": 14,
       "longitude": -14,
       "flag": "https://restcountries.eu/data/sen.svg"
     },
@@ -1955,7 +1965,7 @@
       "callingCode": "381",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "44",
+      "latitude": 44,
       "longitude": 21,
       "flag": "https://restcountries.eu/data/srb.svg"
     },
@@ -1965,7 +1975,7 @@
       "callingCode": "248",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "-4.58333333",
+      "latitude": -4.58333333,
       "longitude": 55.66666666,
       "flag": "https://restcountries.eu/data/syc.svg"
     },
@@ -1975,7 +1985,7 @@
       "callingCode": "232",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "8.5",
+      "latitude": 8.5,
       "longitude": -11.5,
       "flag": "https://restcountries.eu/data/sle.svg"
     },
@@ -1985,7 +1995,7 @@
       "callingCode": "065",
       "region": "Asia",
       "subregion": "South-Eastern Asia",
-      "latitude": "1.36666666",
+      "latitude": 1.36666666,
       "longitude": 103.8,
       "flag": "https://restcountries.eu/data/sgp.svg"
     },
@@ -1995,7 +2005,7 @@
       "callingCode": "1721",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "18.033333",
+      "latitude": 18.033333,
       "longitude": -63.05,
       "flag": "https://restcountries.eu/data/sxm.svg"
     },
@@ -2005,7 +2015,7 @@
       "callingCode": "421",
       "region": "Europe",
       "subregion": "Eastern Europe",
-      "latitude": "48.66666666",
+      "latitude": 48.66666666,
       "longitude": 19.5,
       "flag": "https://restcountries.eu/data/svk.svg"
     },
@@ -2015,7 +2025,7 @@
       "callingCode": "386",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "46.11666666",
+      "latitude": 46.11666666,
       "longitude": 14.81666666,
       "flag": "https://restcountries.eu/data/svn.svg"
     },
@@ -2025,7 +2035,7 @@
       "callingCode": "677",
       "region": "Oceania",
       "subregion": "Melanesia",
-      "latitude": "-8",
+      "latitude": -8,
       "longitude": 159,
       "flag": "https://restcountries.eu/data/slb.svg"
     },
@@ -2035,7 +2045,7 @@
       "callingCode": "252",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "10",
+      "latitude": 10,
       "longitude": 49,
       "flag": "https://restcountries.eu/data/som.svg"
     },
@@ -2045,7 +2055,7 @@
       "callingCode": "027",
       "region": "Africa",
       "subregion": "Southern Africa",
-      "latitude": "-29",
+      "latitude": -29,
       "longitude": 24,
       "flag": "https://restcountries.eu/data/zaf.svg"
     },
@@ -2055,7 +2065,7 @@
       "callingCode": "500",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "-54.5",
+      "latitude": -54.5,
       "longitude": -37,
       "flag": "https://restcountries.eu/data/sgs.svg"
     },
@@ -2065,7 +2075,7 @@
       "callingCode": "211",
       "region": "Africa",
       "subregion": "Middle Africa",
-      "latitude": "7",
+      "latitude": 7,
       "longitude": 30,
       "flag": "https://restcountries.eu/data/ssd.svg"
     },
@@ -2075,7 +2085,7 @@
       "callingCode": "034",
       "region": "Europe",
       "subregion": "Southern Europe",
-      "latitude": "40",
+      "latitude": 40,
       "longitude": -4,
       "flag": "https://restcountries.eu/data/esp.svg"
     },
@@ -2085,7 +2095,7 @@
       "callingCode": "094",
       "region": "Asia",
       "subregion": "Southern Asia",
-      "latitude": "7",
+      "latitude": 7,
       "longitude": 81,
       "flag": "https://restcountries.eu/data/lka.svg"
     },
@@ -2095,7 +2105,7 @@
       "callingCode": "249",
       "region": "Africa",
       "subregion": "Northern Africa",
-      "latitude": "15",
+      "latitude": 15,
       "longitude": 30,
       "flag": "https://restcountries.eu/data/sdn.svg"
     },
@@ -2105,7 +2115,7 @@
       "callingCode": "597",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "4",
+      "latitude": 4,
       "longitude": -56,
       "flag": "https://restcountries.eu/data/sur.svg"
     },
@@ -2115,7 +2125,7 @@
       "callingCode": "4779",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "78",
+      "latitude": 78,
       "longitude": 20,
       "flag": "https://restcountries.eu/data/sjm.svg"
     },
@@ -2125,7 +2135,7 @@
       "callingCode": "268",
       "region": "Africa",
       "subregion": "Southern Africa",
-      "latitude": "-26.5",
+      "latitude": -26.5,
       "longitude": 31.5,
       "flag": "https://restcountries.eu/data/swz.svg"
     },
@@ -2135,7 +2145,7 @@
       "callingCode": "046",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "62",
+      "latitude": 62,
       "longitude": 15,
       "flag": "https://restcountries.eu/data/swe.svg"
     },
@@ -2145,7 +2155,7 @@
       "callingCode": "041",
       "region": "Europe",
       "subregion": "Western Europe",
-      "latitude": "47",
+      "latitude": 47,
       "longitude": 8,
       "flag": "https://restcountries.eu/data/che.svg"
     },
@@ -2155,7 +2165,7 @@
       "callingCode": "963",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "35",
+      "latitude": 35,
       "longitude": 38,
       "flag": "https://restcountries.eu/data/syr.svg"
     },
@@ -2165,7 +2175,7 @@
       "callingCode": "886",
       "region": "Asia",
       "subregion": "Eastern Asia",
-      "latitude": "23.5",
+      "latitude": 23.5,
       "longitude": 121,
       "flag": "https://restcountries.eu/data/twn.svg"
     },
@@ -2175,19 +2185,19 @@
       "callingCode": "992",
       "region": "Asia",
       "subregion": "Central Asia",
-      "latitude": "39",
+      "latitude": 39,
       "longitude": 71,
       "flag": "https://restcountries.eu/data/tjk.svg"
     },
     {
-      "name": "Tanzania",
-      "code": " United Republic of",
-      "callingCode": "TZ",
-      "region": "255",
-      "subregion": "Africa",
-      "latitude": "Eastern Africa",
-      "longitude": -6,
-      "flag": "35"
+      "name": "Tanzania, United Republic of",
+      "code": "TZ",
+      "callingCode": "255",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "latitude": -6,
+      "longitude": 35,
+      "flag": "https://restcountries.eu/data/tza.svg"
     },
     {
       "name": "Thailand",
@@ -2195,7 +2205,7 @@
       "callingCode": "066",
       "region": "Asia",
       "subregion": "South-Eastern Asia",
-      "latitude": "15",
+      "latitude": 15,
       "longitude": 100,
       "flag": "https://restcountries.eu/data/tha.svg"
     },
@@ -2205,7 +2215,7 @@
       "callingCode": "670",
       "region": "Asia",
       "subregion": "South-Eastern Asia",
-      "latitude": "-8.83333333",
+      "latitude": -8.83333333,
       "longitude": 125.91666666,
       "flag": "https://restcountries.eu/data/tls.svg"
     },
@@ -2215,7 +2225,7 @@
       "callingCode": "228",
       "region": "Africa",
       "subregion": "Western Africa",
-      "latitude": "8",
+      "latitude": 8,
       "longitude": 1.16666666,
       "flag": "https://restcountries.eu/data/tgo.svg"
     },
@@ -2225,7 +2235,7 @@
       "callingCode": "690",
       "region": "Oceania",
       "subregion": "Polynesia",
-      "latitude": "-9",
+      "latitude": -9,
       "longitude": -172,
       "flag": "https://restcountries.eu/data/tkl.svg"
     },
@@ -2235,7 +2245,7 @@
       "callingCode": "676",
       "region": "Oceania",
       "subregion": "Polynesia",
-      "latitude": "-20",
+      "latitude": -20,
       "longitude": -175,
       "flag": "https://restcountries.eu/data/ton.svg"
     },
@@ -2245,7 +2255,7 @@
       "callingCode": "1868",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "11",
+      "latitude": 11,
       "longitude": -61,
       "flag": "https://restcountries.eu/data/tto.svg"
     },
@@ -2255,7 +2265,7 @@
       "callingCode": "216",
       "region": "Africa",
       "subregion": "Northern Africa",
-      "latitude": "34",
+      "latitude": 34,
       "longitude": 9,
       "flag": "https://restcountries.eu/data/tun.svg"
     },
@@ -2265,7 +2275,7 @@
       "callingCode": "090",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "39",
+      "latitude": 39,
       "longitude": 35,
       "flag": "https://restcountries.eu/data/tur.svg"
     },
@@ -2275,7 +2285,7 @@
       "callingCode": "993",
       "region": "Asia",
       "subregion": "Central Asia",
-      "latitude": "40",
+      "latitude": 40,
       "longitude": 60,
       "flag": "https://restcountries.eu/data/tkm.svg"
     },
@@ -2285,7 +2295,7 @@
       "callingCode": "1649",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "21.75",
+      "latitude": 21.75,
       "longitude": -71.58333333,
       "flag": "https://restcountries.eu/data/tca.svg"
     },
@@ -2295,7 +2305,7 @@
       "callingCode": "688",
       "region": "Oceania",
       "subregion": "Polynesia",
-      "latitude": "-8",
+      "latitude": -8,
       "longitude": 178,
       "flag": "https://restcountries.eu/data/tuv.svg"
     },
@@ -2305,7 +2315,7 @@
       "callingCode": "256",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "1",
+      "latitude": 1,
       "longitude": 32,
       "flag": "https://restcountries.eu/data/uga.svg"
     },
@@ -2315,7 +2325,7 @@
       "callingCode": "380",
       "region": "Europe",
       "subregion": "Eastern Europe",
-      "latitude": "49",
+      "latitude": 49,
       "longitude": 32,
       "flag": "https://restcountries.eu/data/ukr.svg"
     },
@@ -2325,7 +2335,7 @@
       "callingCode": "971",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "24",
+      "latitude": 24,
       "longitude": 54,
       "flag": "https://restcountries.eu/data/are.svg"
     },
@@ -2335,7 +2345,7 @@
       "callingCode": "044",
       "region": "Europe",
       "subregion": "Northern Europe",
-      "latitude": "54",
+      "latitude": 54,
       "longitude": -2,
       "flag": "https://restcountries.eu/data/gbr.svg"
     },
@@ -2345,7 +2355,7 @@
       "callingCode": "",
       "region": "Americas",
       "subregion": "Northern America",
-      "latitude": "",
+      "latitude": null,
       "longitude": null,
       "flag": "https://restcountries.eu/data/umi.svg"
     },
@@ -2355,7 +2365,7 @@
       "callingCode": "001",
       "region": "Americas",
       "subregion": "Northern America",
-      "latitude": "38",
+      "latitude": 38,
       "longitude": -97,
       "flag": "https://restcountries.eu/data/usa.svg"
     },
@@ -2365,7 +2375,7 @@
       "callingCode": "598",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "-33",
+      "latitude": -33,
       "longitude": -56,
       "flag": "https://restcountries.eu/data/ury.svg"
     },
@@ -2375,7 +2385,7 @@
       "callingCode": "998",
       "region": "Asia",
       "subregion": "Central Asia",
-      "latitude": "41",
+      "latitude": 41,
       "longitude": 64,
       "flag": "https://restcountries.eu/data/uzb.svg"
     },
@@ -2385,7 +2395,7 @@
       "callingCode": "678",
       "region": "Oceania",
       "subregion": "Melanesia",
-      "latitude": "-16",
+      "latitude": -16,
       "longitude": 167,
       "flag": "https://restcountries.eu/data/vut.svg"
     },
@@ -2395,7 +2405,7 @@
       "callingCode": "058",
       "region": "Americas",
       "subregion": "South America",
-      "latitude": "8",
+      "latitude": 8,
       "longitude": -66,
       "flag": "https://restcountries.eu/data/ven.svg"
     },
@@ -2405,7 +2415,7 @@
       "callingCode": "084",
       "region": "Asia",
       "subregion": "South-Eastern Asia",
-      "latitude": "16.16666666",
+      "latitude": 16.16666666,
       "longitude": 107.83333333,
       "flag": "https://restcountries.eu/data/vnm.svg"
     },
@@ -2415,7 +2425,7 @@
       "callingCode": "1284",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "18.431383",
+      "latitude": 18.431383,
       "longitude": -64.62305,
       "flag": "https://restcountries.eu/data/vgb.svg"
     },
@@ -2425,7 +2435,7 @@
       "callingCode": "1 340",
       "region": "Americas",
       "subregion": "Caribbean",
-      "latitude": "18.34",
+      "latitude": 18.34,
       "longitude": -64.93,
       "flag": "https://restcountries.eu/data/vir.svg"
     },
@@ -2435,7 +2445,7 @@
       "callingCode": "681",
       "region": "Oceania",
       "subregion": "Polynesia",
-      "latitude": "-13.3",
+      "latitude": -13.3,
       "longitude": -176.2,
       "flag": "https://restcountries.eu/data/wlf.svg"
     },
@@ -2445,7 +2455,7 @@
       "callingCode": "212",
       "region": "Africa",
       "subregion": "Northern Africa",
-      "latitude": "24.5",
+      "latitude": 24.5,
       "longitude": -13,
       "flag": "https://restcountries.eu/data/esh.svg"
     },
@@ -2455,7 +2465,7 @@
       "callingCode": "967",
       "region": "Asia",
       "subregion": "Western Asia",
-      "latitude": "15",
+      "latitude": 15,
       "longitude": 48,
       "flag": "https://restcountries.eu/data/yem.svg"
     },
@@ -2465,7 +2475,7 @@
       "callingCode": "260",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "-15",
+      "latitude": -15,
       "longitude": 30,
       "flag": "https://restcountries.eu/data/zmb.svg"
     },
@@ -2475,7 +2485,7 @@
       "callingCode": "263",
       "region": "Africa",
       "subregion": "Eastern Africa",
-      "latitude": "-20",
+      "latitude": -20,
       "longitude": 30,
       "flag": "https://restcountries.eu/data/zwe.svg"
     }
